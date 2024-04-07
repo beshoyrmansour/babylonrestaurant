@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "category_name": "Fresh drinks",
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "lorem Ipsum",
+            "cz": "lorem Ipsum",
+            "en": "lorem Ipsum"
+          },
+          "id": "1_item_1",
+          "nember": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00"
+        }
+      ]
+    }
+  ]
+}
