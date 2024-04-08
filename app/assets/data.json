@@ -2,69 +2,69 @@
   "menu": [
     {
       "id": "1",
-      "category_name": "Fresh drinks",
+      "category_name": "Soup",
       "image": "pic5.png",
       "items": [
         {
           "name": {
             "ar": "لوريم إيبسوم",
-            "cz": "lorem Ipsum",
-            "en": "lorem Ipsum"
+            "cz": "Cocková polévka",
+            "en": "Lentil Soup"
           },
           "id": "1_item_1",
           "nember": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "000.00",
+          "price": "69.00",
           "description": {
-            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "en": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "cz": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "ar": "",
+            "en": "",
+            "cz": ""
           }
         },
         {
           "name": {
             "ar": "لوريم إيبسوم",
-            "cz": "lorem Ipsum",
-            "en": "lorem Ipsum"
+            "cz": "Houbová polévka",
+            "en": "Mushroom Soup"
           },
           "id": "1_item_2",
           "nember": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "000.00",
+          "price": "79.00",
           "description": {
-            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "en": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "cz": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "ar": "",
+            "en": "",
+            "cz": ""
           }
         }
       ]
     },
     {
       "id": "2",
-      "category_name": "Fresh drinks",
+      "category_name": "Salads",
       "image": "pic5.png",
       "items": [
         {
           "name": {
             "ar": "لوريم إيبسوم",
-            "cz": "lorem Ipsum",
-            "en": "lorem Ipsum"
+            "cz": "Michany salát",
+            "en": "Mixed Salad"
           },
           "id": "2_item_1",
           "nember": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "000.00",
+          "price": "119.00",
           "description": {
-            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "en": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "cz": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "ar": "",
+            "en": "",
+            "cz": ""
           }
         },
         {
           "name": {
             "ar": "لوريم إيبسوم",
-            "cz": "lorem Ipsum",
-            "en": "lorem Ipsum"
+            "cz": "Kuřecím Caesar salát",
+            "en": "Chicken Caesar salad"
           },
           "id": "2_item_2",
           "nember": "001",
@@ -72,8 +72,64 @@
           "price": "000.00",
           "description": {
             "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "en": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "cz": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+            "en": "Caesar Salad with chicken",
+            "cz": "Caesar salát s kurecim masem"
+          }
+        },
+        ,
+        {
+          "name": {
+            "ar": "لوريم إيبسوم",
+            "cz": "Teplý salát s hovezím masem",
+            "en": "Warm salad with beef"
+          },
+          "id": "2_item_2",
+          "nember": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "169.00",
+          "description": {
+            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "en": "Caesar Salad with chicken",
+            "cz": "Caesar salát s kurecim masem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category_name": "Grill",
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "لوريم إيبسوم",
+            "cz": "Michany salát",
+            "en": "Mixed Salad"
+          },
+          "id": "2_item_1",
+          "nember": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "119.00",
+          "description": {
+            "ar": "",
+            "en": "",
+            "cz": ""
+          }
+        },
+        {
+          "name": {
+            "ar": "لوريم إيبسوم",
+            "cz": "Kuřecím Caesar salát",
+            "en": "Chicken Caesar salad"
+          },
+          "id": "2_item_2",
+          "nember": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00",
+          "description": {
+            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "en": "Caesar Salad with chicken",
+            "cz": "Caesar salát s kurecim masem"
           }
         }
       ]
