@@ -4,7 +4,7 @@ export default {
   content: ['./app/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      sans: ['"Reem Kufi"', 'sans-serif']
+      sans: ['"Reem Kufi"', 'sans-serif'],
     },
     extend: {},
   },

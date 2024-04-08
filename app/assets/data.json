@@ -7,14 +7,74 @@
       "items": [
         {
           "name": {
-            "ar": "lorem Ipsum",
+            "ar": "لوريم إيبسوم",
             "cz": "lorem Ipsum",
             "en": "lorem Ipsum"
           },
           "id": "1_item_1",
           "nember": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "000.00"
+          "price": "000.00",
+          "description": {
+            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "en": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "cz": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          }
+        },
+        {
+          "name": {
+            "ar": "لوريم إيبسوم",
+            "cz": "lorem Ipsum",
+            "en": "lorem Ipsum"
+          },
+          "id": "1_item_2",
+          "nember": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00",
+          "description": {
+            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "en": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "cz": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category_name": "Fresh drinks",
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "لوريم إيبسوم",
+            "cz": "lorem Ipsum",
+            "en": "lorem Ipsum"
+          },
+          "id": "2_item_1",
+          "nember": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00",
+          "description": {
+            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "en": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "cz": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          }
+        },
+        {
+          "name": {
+            "ar": "لوريم إيبسوم",
+            "cz": "lorem Ipsum",
+            "en": "lorem Ipsum"
+          },
+          "id": "2_item_2",
+          "nember": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "000.00",
+          "description": {
+            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "en": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "cz": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+          }
         }
       ]
     }
