@@ -7,14 +7,16 @@ import logo from "~/assets/logo1.svg";
 import Footer from "~/components/Footer";
 import { useState } from "react";
 
-export const config = { runtime: "edge" };
+export const config = { runtime: "Menu" };
 
-export const meta: MetaFunction = () => [{ title: "Remix@Edge | New Remix App" }];
+export const meta: MetaFunction = () => [{
+  title: "Babylon Restaurant! - بابليون مطعم عراقي | MENU"
+}];
 export const loader = async (args: LoaderFunctionArgs) => {
 
   return json({ data: jsonData })
 };
-export default function Edge() {
+export default function Menu() {
   const { data } = useLoaderData<typeof loader>()
   const [currentLanguage, setCurrentLanguage] = useState<Languages>(Languages.cz)
   console.log({ data, });
