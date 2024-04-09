@@ -33,12 +33,12 @@ export default function Edge() {
 
 
         <div className=" divide-y divide-yellow-600 row-span-2">
-          <h1 className="text-center"><p className="text-6xl w-full">Menu</p>
+          <h1 className="text-center"><p className="text-6xl w-full font-unifrakturMaguntia">Menu</p>
             <button onClick={handleChangeLang} className="text-xl"><span className={currentLanguage === Languages.en ? 'text-yellow-100' : 'text-yellow-700'}>EN</span> / <span className={currentLanguage === Languages.cz ? 'text-yellow-100' : 'text-yellow-700'}>CZ</span></button>
           </h1>
           {
             data.menu.map((menuCategory: Category) =>
-              <MenuCategory lang={currentLanguage} key={menuCategory.id} category={menuCategory} />)
+              <MenuCategory lang={currentLanguage} key={menuCategory.id} category={menuCategory} onChangeLang={handleChangeLang} />)
           }
         </div>
         <Footer lang={currentLanguage} onChangeLang={handleChangeLang} />
