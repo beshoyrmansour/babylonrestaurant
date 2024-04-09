@@ -256,6 +256,7 @@ body{
   /*font-family: "Aref Ruqaa", sans-serif;*/
   /*font-family: "Reem Kufi", sans-serif;*/
   font-family: "Forum", serif;
+  /*font-size: 16px;*/
 }
 .custom-background{
 
@@ -279,7 +280,7 @@ body{
 
 .connector{
   width: 100%;
-  height: 13px;
+  height: 17px;
   margin-left: 5px;
   margin-right: 5px;
   border-bottom:#eccc87 dotted 1px; ;

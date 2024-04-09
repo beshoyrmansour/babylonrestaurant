@@ -12,17 +12,17 @@ const MenuItem = (props: Props) => {
   return (
     <div className=' flex flex-col flex-nowrap w-full' >
       <div className="flex w-full text-nowrap">
-        <span className='font-petitFormalScript'>
+        <span className='font-petitFormalScript text-xl'>
           {item.name.cz}
           {/*{lang === Languages.en ? item.name.en : item.name.cz}*/}
         </span>
         <div className='connector' />
-        <span className='text-nowrap'>
+        <span className='text-nowrap  text-2xl'>
           {item.price} Kč
         </span>
       </div>
       <div className="flex text-nowrap w-full justify-between font-reemKufi">
-        <span className='font-italianno text-2xl'>
+        <span className='font-italianno text-3xl'>
           {item.name.en}
         </span>
         <span>

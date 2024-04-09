@@ -14,17 +14,17 @@ const Footer = (props: Props) => {
       <div className="text-center footer_top_section flex-col w-full  flex justify-between items-center gap-12">
         <img src={logo2} alt="logo" style={{ maxHeight: '300px' }} />
 
-        <div className="flex flex-col lg:flex-row">
-          <div>
+        <div className="flex flex-col lg:flex-row w-full justify-around ">
+          <div className=''>
             <div className=" mt-3">
-              <h3 className='text-yellow-100 mb-2'>
+              <h3 className='text-yellow-100 mb-2 text-2xl font-galada'>
                 {lang === "en" ? "For reservation" : "Pro rezervaci"}
               </h3>
               <a href="tel:+420602342820">+420 602 342 820</a>
             </div>
 
             <div className=" mt-3">
-              <h3 className='text-yellow-100 mb-2'>
+              <h3 className='text-yellow-100 mb-2 text-2xl font-galada'>
                 {lang === "en" ? "Follow us" : "Následuj nás"}
               </h3>
               <div className=" mt-3">
@@ -41,65 +41,72 @@ const Footer = (props: Props) => {
           </div>
 
           <div className="text-center mt-3">
-            <h3 className='text-yellow-100 mb-2'>
+            <h3 className='text-yellow-100 mb-2 text-2xl font-galada'>
               {lang === "en" ? "Working hours" : "Otevírací doba"}
             </h3>
             <table itemProp="openingHours" className='m-auto '>
               <tbody>
                 <tr>
-                  <th className="text-start px-2">
+                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
                     {lang === "en" ? "Monday" : "Pondělí"}
                   </th>
-                  <td className="o0m3Qb">
-                    <span className="WF8WNe">11:00 - 23:00</span>
+                  {/*<td className='pr-2'>--------------</td>*/}
+                  <td className="_____">
+                    <span className="text-2xl"> 11:00 - 23:00</span>
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2">
+                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
                     {lang === "en" ? "Tuesday" : "Úterý"}
                   </th>
-                  <td className="o0m3Qb">
-                    <span className="WF8WNe">11:00 - 23:00</span>
+                  {/*<td className='pr-2'>--------------</td>*/}
+                  <td className="_____">
+                    <span className="text-2xl"> 11:00 - 23:00</span>
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2">
+                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
                     {lang === "en" ? "Wednesday" : "Středa"}
                   </th>
-                  <td className="o0m3Qb">
-                    <span className="WF8WNe">11:00 - 23:00</span>
+                  {/*<td className='pr-2'>--------------</td>*/}
+                  <td className="_____">
+                    <span className="text-2xl"> 11:00 - 23:00</span>
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2">
+                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
                     {lang === "en" ? "Thursday" : "Čtvrtek"}
                   </th>
-                  <td className="o0m3Qb">
-                    <span className="WF8WNe">11:00 - 23:00</span>
+                  {/*<td className='pr-2'>--------------</td>*/}
+                  <td className="_____">
+                    <span className="text-2xl"> 11:00 - 23:00</span>
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2">
+                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
                     {lang === "en" ? "Friday" : "Pátek"}
                   </th>
-                  <td className="o0m3Qb">
-                    <span className="WF8WNe">11:00 - 23:00</span>
+                  {/*<td className='pr-2'>--------------</td>*/}
+                  <td className="_____">
+                    <span className="text-2xl"> 11:00 - 23:00</span>
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2">
+                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
                     {lang === "en" ? "Saturday" : "Sobota"}
                   </th>
-                  <td className="o0m3Qb">
-                    <span className="WF8WNe">11:00 - 23:00</span>
+                  {/*<td className='pr-2'>--------------</td>*/}
+                  <td className="_____">
+                    <span className="text-2xl"> 11:00 - 23:00</span>
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2">
+                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
                     {lang === "en" ? "Sunday" : "Neděle"}
                   </th>
-                  <td className="o0m3Qb">
-                    <span className="WF8WNe">11:00 - 23:00</span>
+                  {/*<td className='pr-2'>--------------</td>*/}
+                  <td className="_____">
+                    <span className="text-2xl"> 11:00 - 23:00</span>
                   </td>
                 </tr>
               </tbody>
@@ -107,9 +114,9 @@ const Footer = (props: Props) => {
           </div>
         </div>
 
-        <div className="mt-3">
+        <div className="mt-3 w-full px-8">
 
-          <h3 className='text-yellow-100 mb-2'>
+          <h3 className='text-yellow-100 mb-2 text-2xl font-galada'>
             {lang === "en" ? "Visit us" : "Navštiv nás"}
 
           </h3>
