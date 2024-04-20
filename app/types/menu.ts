@@ -1,6 +1,6 @@
 export type Category = {
   id: string;
-  category_name: string;
+  category_name: Record<Languages, string>;
   image: string;
   items: Array<Item>
 

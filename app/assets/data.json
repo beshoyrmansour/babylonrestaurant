@@ -2,7 +2,11 @@
   "menu": [
     {
       "id": "1",
-      "category_name": "Soup",
+      "category_name": {
+        "en": "Soup",
+        "ar": "AR NAME",
+        "cz": "CZ NAME"
+      },
       "image": "pic5.png",
       "items": [
         {
@@ -41,7 +45,11 @@
     },
     {
       "id": "2",
-      "category_name": "Salads",
+      "category_name": {
+        "en": "Salads",
+        "ar": "AR NAME",
+        "cz": "CZ NAME"
+      },
       "image": "pic5.png",
       "items": [
         {
@@ -96,7 +104,11 @@
     },
     {
       "id": "3",
-      "category_name": "Grill",
+      "category_name": {
+        "en": "Grill",
+        "ar": "AR NAME",
+        "cz": "CZ NAME"
+      },
       "image": "pic5.png",
       "items": [
         {
