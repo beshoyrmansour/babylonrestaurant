@@ -107,7 +107,7 @@
       "category_name": {
         "en": "Cold appetizers",
         "ar": "المقبلات الباردة",
-        "cz": "Studené predkrmy"
+        "cz": "Studené předkrmy"
       },
       "image": "pic5.png",
       "items": [
@@ -145,7 +145,7 @@
         },
         {
           "name": {
-            "ar": "بابا غنوج متبل الباذنجان",
+            "ar": "فتوش",
             "cz": "Fattoush",
             "en": "Fattoush"
           },
@@ -200,7 +200,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "159.00",
+          "price": "139.00",
           "description": {
             "ar": "",
             "en": "yogurt with mint, garlic and cucumber",
@@ -221,6 +221,38 @@
             "ar": "",
             "en": "Tomatoes, eucumbers, paprika, onion, olive oil",
             "cz": "Rajeata, okurky, paprika, cibule, olivovy ole"
+          }
+        },
+        {
+          "name": {
+            "ar": "ليلكوڤي كاڤيار",
+            "cz": "Lilkový kaviár",
+            "en": "Lilkovy kaviar"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "139.00",
+          "description": {
+            "ar": "",
+            "en": "Baked eggplant dip with pomegranat",
+            "cz": "dip z peceného lilku s granátovýmjablkem"
+          }
+        },
+        {
+          "name": {
+            "ar": "سلطة يونانية",
+            "cz": "Greek Salát",
+            "en": "Greek Salad"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "159.00",
+          "description": {
+            "ar": "",
+            "en": "tomatoes, eucumber, pepper, olives, balean Cheese",
+            "cz": "Rajeata,okurka,paprika,olivy,balkán.syr"
           }
         }
       ]
