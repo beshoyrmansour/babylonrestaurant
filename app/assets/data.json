@@ -256,6 +256,81 @@
           }
         }
       ]
+    },
+    {
+      "id": "4",
+      "category_name": {
+        "en": "Warm appetizers",
+        "ar": "مقبلات ساخنة",
+        "cz": "Teplé predkrmy"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "حمص باللحم",
+            "cz": "Hummus s masem",
+            "en": "Hummus with meat"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "199.00",
+          "description": {
+            "ar": "حمص باللحم",
+            "cz": "Vařená cizrnová kaše s tahini mletým masem a ořechy",
+            "en": "Cooked chickpeas purée with tahine minced meat and nuts"
+          }
+        },
+        {
+          "name": {
+            "ar": "فول مدمس",
+            "cz": "Foul mudammas",
+            "en": "Foul mudammas"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "139.00",
+          "description": {
+            "ar": "",
+            "en": "Foul mudammas,olive oil and lemon juice",
+            "cz": "Foul mudammas, olivovým olejem a citronovou stávou"
+          }
+        },
+        {
+          "name": {
+            "ar": "فلافل",
+            "cz": "Falafel",
+            "en": "Falafel"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "249.00",
+          "description": {
+            "ar": "",
+            "en": "Fried chickpea meatballs, tahini sauce, salad",
+            "cz": "smažené cizrnové karbanátky, tahini omáčka, salát"
+          }
+        },
+        {
+          "name": {
+            "ar": "كبة",
+            "cz": "Kibbeh",
+            "en": "Kibbeh"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "249.00",
+          "description": {
+            "ar": "",
+            "en": "Fried balls made from a mixture of meat, crushed wheat, onion and pineseeds",
+            "cz": "Smažené kuličky ze směsi masa, drcené pšenice, cibule a piniových semínek"
+          }
+        }
+      ]
     }
   ]
 }
