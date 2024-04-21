@@ -4,41 +4,41 @@
       "id": "1",
       "category_name": {
         "en": "Soup",
-        "ar": "AR NAME",
-        "cz": "CZ NAME"
+        "ar": "شوربة",
+        "cz": "Polévka"
       },
       "image": "pic5.png",
       "items": [
         {
           "name": {
-            "ar": "لوريم إيبسوم",
+            "ar": "شوربة العدس",
             "cz": "Cocková polévka",
             "en": "Lentil Soup"
           },
           "id": "1_item_1",
-          "nember": "001",
+          "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
           "price": "69.00",
           "description": {
-            "ar": "",
-            "en": "",
-            "cz": ""
+            "ar": "شوربة العدس",
+            "cz": "Cocková polévka",
+            "en": "Lentil Soup"
           }
         },
         {
           "name": {
-            "ar": "لوريم إيبسوم",
+            "ar": "شوربة الفطر",
             "cz": "Houbová polévka",
             "en": "Mushroom Soup"
           },
           "id": "1_item_2",
-          "nember": "001",
+          "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
           "price": "79.00",
           "description": {
-            "ar": "",
-            "en": "",
-            "cz": ""
+            "ar": "شوربة الفطر",
+            "cz": "Houbová polévka",
+            "en": "Mushroom Soup"
           }
         }
       ]
@@ -47,55 +47,55 @@
       "id": "2",
       "category_name": {
         "en": "Salads",
-        "ar": "AR NAME",
-        "cz": "CZ NAME"
+        "ar": "سلطة",
+        "cz": "Salát"
       },
       "image": "pic5.png",
       "items": [
         {
           "name": {
-            "ar": "لوريم إيبسوم",
+            "ar": "سلطة مشكل",
             "cz": "Michany salát",
             "en": "Mixed Salad"
           },
           "id": "2_item_1",
-          "nember": "001",
+          "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
           "price": "119.00",
           "description": {
-            "ar": "",
-            "en": "",
-            "cz": ""
+            "ar": "سلطة مشكل",
+            "cz": "Michany salát",
+            "en": "Mixed Salad"
           }
         },
         {
           "name": {
-            "ar": "لوريم إيبسوم",
+            "ar": "سلطة سيزر بالدجاج",
             "cz": "Kuřecím Caesar salát",
             "en": "Chicken Caesar salad"
           },
           "id": "2_item_2",
-          "nember": "001",
+          "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "000.00",
+          "price": "149.00",
           "description": {
-            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "ar": "",
             "en": "Caesar Salad with chicken",
             "cz": "Caesar salát s kurecim masem"
           }
         },
         {
           "name": {
-            "ar": "لوريم إيبسوم",
+            "ar": "سلطة ساخنة باللحم",
             "cz": "Teplý salát s hovezím masem",
             "en": "Warm salad with beef"
           },
           "id": "2_item_2",
-          "nember": "001",
+          "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
           "price": "169.00",
           "description": {
-            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+            "ar": "",
             "en": "Caesar Salad with chicken",
             "cz": "Caesar salát s kurecim masem"
           }
@@ -105,42 +105,122 @@
     {
       "id": "3",
       "category_name": {
-        "en": "Grill",
-        "ar": "AR NAME",
-        "cz": "CZ NAME"
+        "en": "Cold appetizers",
+        "ar": "المقبلات الباردة",
+        "cz": "Studené predkrmy"
       },
       "image": "pic5.png",
       "items": [
         {
           "name": {
-            "ar": "لوريم إيبسوم",
-            "cz": "Michany salát",
-            "en": "Mixed Salad"
+            "ar": "حمص",
+            "cz": "Hummus",
+            "en": "Hummus"
           },
           "id": "2_item_1",
-          "nember": "001",
+          "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "119.00",
+          "price": "139.00",
           "description": {
-            "ar": "",
-            "en": "",
-            "cz": ""
+            "ar": "حمص",
+            "cz": "Pyré z varené eizrny s tahini, olivovým olejem a eitronovou Stávou",
+            "en": "Cooked chickpeas purée with tahine oil and lemon juice"
           }
         },
         {
           "name": {
-            "ar": "لوريم إيبسوم",
-            "cz": "Kuřecím Caesar salát",
-            "en": "Chicken Caesar salad"
+            "ar": "بابا غنوج متبل الباذنجان",
+            "cz": "Babaganush",
+            "en": "Babaganush"
           },
           "id": "2_item_2",
-          "nember": "001",
+          "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "000.00",
+          "price": "149.00",
           "description": {
-            "ar": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
-            "en": "Caesar Salad with chicken",
-            "cz": "Caesar salát s kurecim masem"
+            "ar": "",
+            "en": "Cooked eggplant purée with sesame oil and lemon juice",
+            "cz": "Pecený lilek se sezamovym olejem a eitrónovou Stávou"
+          }
+        },
+        {
+          "name": {
+            "ar": "بابا غنوج متبل الباذنجان",
+            "cz": "Fattoush",
+            "en": "Fattoush"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "159.00",
+          "description": {
+            "ar": "",
+            "en": "Vegetabels, iceberg salad, fried pieces of pita bread, olive oil",
+            "cz": "Zelenina, ledovy salát, smaz. kousky pita chleba, olivový olej"
+          }
+        },
+        {
+          "name": {
+            "ar": "تبولة",
+            "cz": "Tabbouleh",
+            "en": "Tabbouleh"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "159.00",
+          "description": {
+            "ar": "",
+            "en": "Tomatoes, parsley, onion, bulgur",
+            "cz": "Rajeata, petrzel,Cibule, bulgur"
+          }
+        },
+        {
+          "name": {
+            "ar": "سلطة عربية",
+            "cz": "Arabský salát",
+            "en": "Arabic Salad"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "159.00",
+          "description": {
+            "ar": "",
+            "en": "Tomatoes, cucumbers, paprika, onion, olive oil",
+            "cz": "Rajeata, okurky, paprika, cibule, olivovy olej"
+          }
+        },
+        {
+          "name": {
+            "ar": "سلطة خيار باللبن",
+            "cz": "Tzatziki",
+            "en": "Yogurt Cucumber Salad"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "159.00",
+          "description": {
+            "ar": "",
+            "en": "yogurt with mint, garlic and cucumber",
+            "cz": "jogurt s mátou, eesnekem aokurkou"
+          }
+        },
+        {
+          "name": {
+            "ar": "ادزيكا",
+            "cz": "Adzika",
+            "en": "Adzika"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "139.00",
+          "description": {
+            "ar": "",
+            "en": "Tomatoes, eucumbers, paprika, onion, olive oil",
+            "cz": "Rajeata, okurky, paprika, cibule, olivovy ole"
           }
         }
       ]

@@ -13,7 +13,7 @@ export enum Languages {
 export type Item = {
   "name": Record<Languages, string>;
   id: string;
-  nember: string;
+  number: string;
   image: string;
   price: string;
   description: Record<Languages, string>
