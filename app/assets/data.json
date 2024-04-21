@@ -360,7 +360,7 @@
         {
           "name": {
             "ar": "قوزي خروف",
-            "cz": "Jehněčí Qozi",
+            "cz": "Jehněčí maso Qozi",
             "en": "Lamb Qozi"
           },
           "id": "2_item_2",
@@ -370,7 +370,7 @@
           "description": {
             "ar": "",
             "en": "lamb, rice Kabsa, parsley, nuts",
-            "cz": "Jehněčí, rýže kabse, petržel, ořechy"
+            "cz": "Jehněčí maso, rýže kabse, petržel, ořechy"
           }
         },
         {
@@ -398,7 +398,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "249",
+          "price": "349",
           "description": {
             "ar": "",
             "en": "Chicken, biryani rice, parsley, nuts",
@@ -414,7 +414,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "249",
+          "price": "399",
           "description": {
             "ar": "",
             "en": "Okra with meat, rice, tomato sauce",
@@ -430,11 +430,27 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "249",
+          "price": "399",
           "description": {
             "ar": "",
             "en": "White beans with meat, rice, tomato sauce",
             "cz": "Bílé fazole s masem, rýže, rajčatová omáčka"
+          }
+        },
+        {
+          "name": {
+            "ar": "تبس بتنجان",
+            "cz": "Tepsi Lilek",
+            "en": "Tepsi Eggplant"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "399",
+          "description": {
+            "ar": "",
+            "en": "Lamb, eggplant, potatos, onions, red sauce",
+            "cz": "Jehněčí maso, lilek, brambory, cibule, červená omáčka"
           }
         },
         {
@@ -451,6 +467,129 @@
             "ar": "",
             "en": "Grape leaves stuffed with rice, vegetables and olive oil",
             "cz": "Vinné listy pinéné ryzi, zeleninou a olivovym olejem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "category_name": {
+        "en": "Grill Meals",
+        "ar": "وجبات مشاوي",
+        "cz": "Grilovaná jídla"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "أجنحة الدجاج المشوية",
+            "cz": "Grilovaná kuřecí křídla",
+            "en": "Grilled chicken Wings"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "299",
+          "description": {
+            "ar": "",
+            "cz": "8 kuřecích křídel, salát, hranolky/rýže, dresink",
+            "en": "8 chicken wings, salad, fries / rice, dressing"
+          }
+        },
+        { 
+          "name": {
+            "ar": "شيش طاووق",
+            "cz": "Šiš taouk",
+            "en": "Shish Taouk"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "349",
+          "description": {
+            "ar": "",
+            "en": "Marinated chicken pieces on grill, salad, chips / rice, dressing",
+            "cz": "Marinované kuřecí kousky na grilu, salát, hranolky/rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "ستيك دجاج مشوي",
+            "cz": "Grilovaný kuřecí steak",
+            "en": "Grilled Chicken Steak"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "369",
+          "description": {
+            "ar": "",
+            "en": "Chicken breasts on grill, salad, chips / rice, dressing",
+            "cz": "Kuřecí prsa na grilu, salát, chipsy/rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "شيش كباب",
+            "cz": "Šiš Kebab",
+            "en": "Shish kabab"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "349",
+          "description": {
+            "ar": "",
+            "en": "Grilled minced lamb, salad. french fries / rice, dressing",
+            "cz": "Grilované mleté jehněčí maso, salát. hranolky/rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "ستيك لحم",
+            "cz": "Hovězí steak",
+            "en": "Beef steak"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "249",
+          "description": {
+            "ar": "",
+            "en": "Beef steak on grill, salad, fries / rice, dressing",
+            "cz": "Hovězí steak na grilu, salát, hranolky/rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "تكا خروف",
+            "cz": "Jehněčí Tikka",
+            "en": "Lamb Tikka"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "249",
+          "description": {
+            "ar": "",
+            "en": "Grilled lamb pastry, salad, french fries / rice, dressing",
+            "cz": "Grilované jehněčí pečivo, salát, hranolky / rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "ضلوع خروف",
+            "cz": "Jehněčí žebirka",
+            "en": "Lamb Ribs"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "249",
+          "description": {
+            "ar": "",
+            "en": "4x grilled lamb ribs, salad, french fries / rice, dressing",
+            "cz": "4x grilovaná jehněčí žebírka, salát, hranolky/rýže, dresink"
           }
         }
       ]
