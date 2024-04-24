@@ -16,15 +16,20 @@ const Footer = (props: Props) => {
 
         <div className="flex flex-col lg:flex-row w-full justify-around ">
           <div className=''>
-            <div className=" mt-3">
-              <h3 className='text-yellow-100 mb-2 text-2xl font-galada'>
+            <div className=" mt-16">
+              <h3 className='text-yellow-100 mb-2 text-2xl font-lugrasimo'>
                 {lang === "en" ? "For reservation" : "Pro rezervaci"}
               </h3>
-              <a href="tel:+420602342820">+420 602 342 820</a>
+              <a href="tel:+420602342820">
+                <span className="text-3xl">
+                  +420 602 342 820
+                </span>
+
+              </a>
             </div>
 
-            <div className=" mt-3">
-              <h3 className='text-yellow-100 mb-2 text-2xl font-galada'>
+            <div className=" mt-16">
+              <h3 className='text-yellow-100 mb-2 text-2xl font-lugrasimo'>
                 {lang === "en" ? "Follow us" : "Následuj nás"}
               </h3>
               <div className=" mt-3">
@@ -40,14 +45,14 @@ const Footer = (props: Props) => {
             </div>
           </div>
 
-          <div className="text-center mt-3">
-            <h3 className='text-yellow-100 mb-2 text-2xl font-galada'>
+          <div className="text-center mt-16">
+            <h3 className='text-yellow-100 mb-2 text-2xl font-lugrasimo'>
               {lang === "en" ? "Working hours" : "Otevírací doba"}
             </h3>
             <table itemProp="openingHours" className='m-auto '>
               <tbody>
                 <tr>
-                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
+                  <th className="text-start px-2 text-2xl pr-2 font-forum">
                     {lang === "en" ? "Monday" : "Pondělí"}
                   </th>
                   {/*<td className='pr-2'>--------------</td>*/}
@@ -56,7 +61,7 @@ const Footer = (props: Props) => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
+                  <th className="text-start px-2 text-2xl pr-2 font-forum">
                     {lang === "en" ? "Tuesday" : "Úterý"}
                   </th>
                   {/*<td className='pr-2'>--------------</td>*/}
@@ -65,7 +70,7 @@ const Footer = (props: Props) => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
+                  <th className="text-start px-2 text-2xl pr-2 font-forum">
                     {lang === "en" ? "Wednesday" : "Středa"}
                   </th>
                   {/*<td className='pr-2'>--------------</td>*/}
@@ -74,7 +79,7 @@ const Footer = (props: Props) => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
+                  <th className="text-start px-2 text-2xl pr-2 font-forum">
                     {lang === "en" ? "Thursday" : "Čtvrtek"}
                   </th>
                   {/*<td className='pr-2'>--------------</td>*/}
@@ -83,7 +88,7 @@ const Footer = (props: Props) => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
+                  <th className="text-start px-2 text-2xl pr-2 font-forum">
                     {lang === "en" ? "Friday" : "Pátek"}
                   </th>
                   {/*<td className='pr-2'>--------------</td>*/}
@@ -92,7 +97,7 @@ const Footer = (props: Props) => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
+                  <th className="text-start px-2 text-2xl pr-2 font-forum">
                     {lang === "en" ? "Saturday" : "Sobota"}
                   </th>
                   {/*<td className='pr-2'>--------------</td>*/}
@@ -101,7 +106,7 @@ const Footer = (props: Props) => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="text-start px-2 text-2xl pr-2 font-tangerine">
+                  <th className="text-start px-2 text-2xl pr-2 font-forum">
                     {lang === "en" ? "Sunday" : "Neděle"}
                   </th>
                   {/*<td className='pr-2'>--------------</td>*/}
@@ -114,15 +119,15 @@ const Footer = (props: Props) => {
           </div>
         </div>
 
-        <div className="mt-3 w-full px-8">
+        <div className="mt-16 w-full px-8">
 
-          <h3 className='text-yellow-100 mb-2 text-2xl font-galada'>
+          <h3 className='text-yellow-100 mb-2 text-2xl font-lugrasimo'>
             {lang === "en" ? "Visit us" : "Navštiv nás"}
 
           </h3>
           <a href="https://maps.app.goo.gl/z9tycx4wQMfDSu1u5">
 
-            <span>Spálená 107/49, 110 00 Nové Město, Czechia</span>
+            <span className='text-xl' >Spálená 107/49, 110 00 Nové Město, Czechia</span>
             {/* <div className="map"
                 title="Map showing business location."></div> */}
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d640.0631361224408!2d14.418644328591732!3d50.08155839821284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b95db41615027%3A0x7677db6b53fc1178!2sBabylon%20Grill!5e0!3m2!1sen!2seg!4v1712578081598!5m2!1sen!2seg"
