@@ -335,7 +335,7 @@
     {
       "id": "5",
       "category_name": {
-        "en": "Main Meal",
+        "en": "Main Course",
         "ar": "الوجبات الرئيسية",
         "cz": "Hlavní jídlo"
       },
@@ -474,9 +474,9 @@
     {
       "id": "6",
       "category_name": {
-        "en": "Grill Meals",
-        "ar": "وجبات مشاوي",
-        "cz": "Grilovaná jídla"
+        "en": "Grill",
+        "ar": "مشاوي",
+        "cz": "Grill"
       },
       "image": "pic5.png",
       "items": [
