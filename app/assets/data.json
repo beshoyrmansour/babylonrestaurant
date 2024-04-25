@@ -553,7 +553,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "249",
+          "price": "399",
           "description": {
             "ar": "",
             "en": "Beef steak on grill, salad, fries / rice, dressing",
@@ -569,7 +569,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "249",
+          "price": "399",
           "description": {
             "ar": "",
             "en": "Grilled lamb pastry, salad, french fries / rice, dressing",
@@ -585,11 +585,86 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "249",
+          "price": "449",
           "description": {
             "ar": "",
             "en": "4x grilled lamb ribs, salad, french fries / rice, dressing",
             "cz": "4x grilovaná jehněčí žebírka, salát, hranolky/rýže, dresink"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "category_name": {
+        "en": "Grill Meals Per Person",
+        "ar": "وجبات مشاوي بالفرد",
+        "cz": "Grilovaná jídla na osobu"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "مكس جريل لفرد ٣٣٠ ج",
+            "cz": "Mix gril pro 1 osoba 330g",
+            "en": "Mix grill for 1 person 330g"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "649",
+          "description": {
+            "ar": "",
+            "cz": "1x Šiš taouk, 1x jehněčí tikka, 1x Šiš Kabab, 1x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
+            "en": "1x shish taouk, 1x lamb tikka, 1x shish kebab, 1x lamb ribs, grilled vegetables, fries / rice, dressing"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس جريل لفردين ٦٦٠ ج",
+            "cz": "Mix gril pro 2 osoby 330g",
+            "en": "Mix grill for 2 people 330g"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "1119",
+          "description": {
+            "ar": "",
+            "cz": "2x Šiš taouk, 2x jehněčí tikka, 2x Šiš Kabab, 2x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
+            "en": "2x shish taouk, 2x lamb tikka, 2x shish kebab, 2x lamb ribs, grilled vegetables, fries / rice, dressing"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس جريل لثلاث أفراد ١١٠٠ ج",
+            "cz": "Mix gril pro 3 osoby 330g",
+            "en": "Mix grill for 3 people 330g"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "2299",
+          "description": {
+            "ar": "",
+            "cz": "3x Šiš taouk, 3x jehněčí tikka, 3x Šiš Kabab, 3x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
+            "en": "3x shish taouk, 3x lamb tikka, 3x shish kebab, 3x lamb ribs, grilled vegetables, fries / rice, dressing"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس جريل لأربع أفراد ١٥٠٠ ج",
+            "cz": "Mix gril pro 4 osoby 330g",
+            "en": "Mix grill for 4 people 330g"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
+          "price": "3499",
+          "description": {
+            "ar": "",
+            "cz": "4x Šiš taouk, 4x jehněčí tikka, 4x Šiš Kabab, 4x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
+            "en": "4x shish taouk, 4x lamb tikka, 4x shish kebab, 4x lamb ribs, grilled vegetables, fries / rice, dressing"
           }
         }
       ]
