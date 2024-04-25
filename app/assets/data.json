@@ -18,7 +18,7 @@
           "id": "1_item_1",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "69",
+          "price": "89",
           "description": {
             "ar": "شوربة العدس",
             "cz": "Cocková polévka",
@@ -34,7 +34,7 @@
           "id": "1_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "79",
+          "price": "99",
           "description": {
             "ar": "شوربة الفطر",
             "cz": "Houbová polévka",
@@ -120,7 +120,7 @@
           "id": "2_item_1",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "139",
+          "price": "119",
           "description": {
             "ar": "حمص",
             "cz": "Pyré z varené eizrny s tahini, olivovým olejem a eitronovou Stávou",
@@ -136,7 +136,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "149",
+          "price": "129",
           "description": {
             "ar": "",
             "en": "Cooked eggplant purée with sesame oil and lemon juice",
@@ -184,7 +184,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "159",
+          "price": "119",
           "description": {
             "ar": "",
             "en": "Tomatoes, cucumbers, paprika, onion, olive oil",
@@ -200,7 +200,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "139",
+          "price": "119",
           "description": {
             "ar": "",
             "en": "yogurt with mint, garlic and cucumber",
@@ -216,7 +216,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "139",
+          "price": "119",
           "description": {
             "ar": "",
             "en": "Tomatoes, eucumbers, paprika, onion, olive oil",
@@ -232,7 +232,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "139",
+          "price": "129",
           "description": {
             "ar": "",
             "en": "Baked eggplant dip with pomegranat",
@@ -462,7 +462,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "_1d608276-e4b9-4494-aacc-abaeec0c7a7a.jpg",
-          "price": "249",
+          "price": "199",
           "description": {
             "ar": "",
             "en": "Grape leaves stuffed with rice, vegetables and olive oil",
