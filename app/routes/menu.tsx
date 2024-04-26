@@ -19,7 +19,6 @@ export const loader = async (args: LoaderFunctionArgs) => {
 export default function Menu() {
   const { data } = useLoaderData<typeof loader>()
   const [currentLanguage, setCurrentLanguage] = useState<Languages>(Languages.cz)
-  console.log({ data, });
 
   const handleChangeLang = () => {
     setCurrentLanguage((prevLanguage: Languages) => prevLanguage === Languages.en ? Languages.cz : Languages.en)
@@ -35,9 +34,20 @@ export default function Menu() {
 
 
         <div className=" divide-y divide-yellow-600 row-span-2">
-          <h1 className="text-center"><p className="text-6xl w-full font-lugrasimo">Menu</p>
+          <h1 className="text-center"><p className="text-6xl pt-2 w-full font-lugrasimo">Menu</p>
             <button onClick={handleChangeLang} className="text-xl"><span className={currentLanguage === Languages.en ? 'text-yellow-100' : 'text-yellow-700'}>EN</span> / <span className={currentLanguage === Languages.cz ? 'text-yellow-100' : 'text-yellow-700'}>CZ</span></button>
           </h1>
+          <div className="sticky  top-0 bg-[#14100D] w-full">
+            <div className="flex gap-3 rounded-xl py-3 overflow-auto felx-nowrap">
+              {data.menu.map((menuCategory: Category) => (<a
+                href={`#${menuCategory.id}`}
+                key={'id_' + menuCategory.id}
+                className="border-rounded px-3 py-2 text-nowrap text-xl"
+              >
+                {menuCategory.category_name[currentLanguage]}
+              </a>))}
+            </div>
+          </div>
           {
             data.menu.map((menuCategory: Category) =>
               <MenuCategory lang={currentLanguage} key={menuCategory.id} category={menuCategory} onChangeLang={handleChangeLang} />)
