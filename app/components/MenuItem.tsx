@@ -13,6 +13,9 @@ const MenuItem = (props: Props) => {
 
   return (
     <div className=' flex flex-col flex-nowrap w-full' >
+      {item.image && <div className='w-full'>
+        <img className='w-full rounded-xl mb-4' src={`./imgs/${item.image}`} alt={item.name.en} />
+      </div>}
       <div className="flex w-full flex-nowrap">
         <span className='font-lugrasimo text-2xl max-w-[66%]'>
           {lang === Languages.en ? item.name.en : item.name.cz}
