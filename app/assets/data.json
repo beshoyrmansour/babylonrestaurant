@@ -1,6 +1,177 @@
 {
   "menu": [
     {
+      "id": "8",
+      "category_name": {
+        "en": "Shisha",
+        "ar": "شيشة",
+        "cz": "šiša"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "عنب مثلج",
+            "cz": "Mražené hrozny",
+            "en": "Frozen Grapes"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Bílé hrozny, červené hrozny",
+            "en": "White grapes , red grapes"
+          }
+        },
+        {
+          "name": {
+            "ar": "السيدة",
+            "cz": "Dáma",
+            "en": "Lady"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Meloun, mango, malina, máta",
+            "en": "Watermelon, Mango, Raspberry, mint"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس فواكة",
+            "cz": "Směs ovoce",
+            "en": "Fruits Mix"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Osvěžující ovocná směs",
+            "en": "Refreshing Fruits Mix"
+          }
+        },
+        {
+          "name": {
+            "ar": "ديكري",
+            "cz": "Dickri",
+            "en": "Dickri"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Osvěžující ovocná směs",
+            "en": "Refreshing Fruits Mix"
+          }
+        },
+        {
+          "name": {
+            "ar": "قصة حب",
+            "cz": "Milostný příběh",
+            "en": "Love story"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Meloun, meloun, mučenka",
+            "en": "Watermelon, Cantaloupe, passion fruit"
+          }
+        },
+        {
+          "name": {
+            "ar": "ليلة في موسكو",
+            "cz": "Noc V Moskvě",
+            "en": "Night In Moscow"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Ledová broskev, ledový meloun",
+            "en": "Iced Peach, Iced Watermelon"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس بري",
+            "cz": "Směs bobulí",
+            "en": "Berries Mix"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Ledová jahoda, ledová malina",
+            "en": "Iced Strawberry, iced raspberry"
+          }
+        },
+        {
+          "name": {
+            "ar": "لاڤ ٦٦",
+            "cz": "Láska 66",
+            "en": "Love 66"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Směs ovoce",
+            "en": "Fruits Mix"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس بابل الخاص",
+            "cz": "Speciální směs Babylon",
+            "en": "Babylon Special Mix"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Speciální směs Babylon",
+            "en": "Babylon Special Mix"
+          }
+        },
+        {
+          "name": {
+            "ar": "تفاحتين",
+            "cz": "Dvě jablka",
+            "en": "Two Apples"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "550",
+          "description": {
+            "ar": "",
+            "cz": "Dvě jablka",
+            "en": "Two Apples"
+          }
+        }
+      ]
+    },
+    {
       "id": "1",
       "category_name": {
         "en": "Soup",
@@ -670,172 +841,418 @@
       ]
     },
     {
-      "id": "8",
+      "id": "9",
       "category_name": {
-        "en": "Shisha",
-        "ar": "شيشة",
-        "cz": "šiša"
+        "en": "Soft Drinks",
+        "ar": "مشروبات غير كحلية",
+        "cz": "Nealkoholické nápoje"
       },
       "image": "pic5.png",
       "items": [
         {
           "name": {
-            "ar": "عنب مثلج",
-            "cz": "Mražené hrozny",
-            "en": "Frozen Grapes"
+            "ar": "كوكاكولا ٣٣٠مل",
+            "cz": "0,33| Coca-Cola",
+            "en": "0.33| Coca-Cola"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "59",
           "description": {
             "ar": "",
-            "cz": "Bílé hrozny, červené hrozny",
-            "en": "White grapes , red grapes"
+            "cz": "0,33| Coca-Cola",
+            "en": "0.33| Coca-Cola"
           }
         },
         {
           "name": {
-            "ar": "السيدة",
-            "cz": "Dáma",
-            "en": "Lady"
+            "ar": "كوكاكولا زيرو ٣٣٠مل",
+            "cz": "0,33| Coca-Cola nula",
+            "en": "0.33| Coca-Cola zero"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "59",
           "description": {
             "ar": "",
-            "cz": "Meloun, mango, malina, máta",
-            "en": "Watermelon, Mango, Raspberry, mint"
+            "cz": "0,33| Coca-Cola nula",
+            "en": "0.33| Coca-Cola zero"
           }
         },
         {
           "name": {
-            "ar": "مكس فواكة",
-            "cz": "Směs ovoce",
-            "en": "Fruits Mix"
+            "ar": "فانتا ٣٣٠مل",
+            "cz": "0,33| Fanta",
+            "en": "0.33| Fanta"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "59",
           "description": {
             "ar": "",
-            "cz": "Osvěžující ovocná směs",
-            "en": "Refreshing Fruits Mix"
+            "cz": "0,33| Fanta",
+            "en": "0.33| Fanta"
           }
         },
         {
           "name": {
-            "ar": "ديكري",
-            "cz": "Dickri",
-            "en": "Dickri"
+            "ar": "سبرايت ٣٣٠مل",
+            "cz": "0,33| Sprite",
+            "en": "0.33| Sprite"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "59",
           "description": {
             "ar": "",
-            "cz": "Osvěžující ovocná směs",
-            "en": "Refreshing Fruits Mix"
+            "cz": "0,33| Sprite",
+            "en": "0.33| Sprite"
           }
         },
         {
           "name": {
-            "ar": "قصة حب",
-            "cz": "Milostný příběh",
-            "en": "Love story"
+            "ar": "مياه ٣٣٠مل",
+            "cz": "0,33| Natura Neperlivá",
+            "en": "0.33| Water"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "55",
           "description": {
             "ar": "",
-            "cz": "Meloun, meloun, mučenka",
-            "en": "Watermelon, Cantaloupe, passion fruit"
+            "cz": "0,33| Natura Neperlivá",
+            "en": "0.33| Water"
+          }
+        }, 
+        {
+          "name": {
+            "ar": "مياه غازية ٣٣٠مل",
+            "cz": "0,33| Natura perlivá",
+            "en": "0.33| Sparkling Water"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "55",
+          "description": {
+            "ar": "",
+            "cz": "0,33| Natura perlivá",
+            "en": "0.33| Sparkling Water"
           }
         },
         {
           "name": {
-            "ar": "ليلة في موسكو",
-            "cz": "Noc V Moskvě",
-            "en": "Night In Moscow"
+            "ar": "عصير كابي فراولة ٣٣٠مل",
+            "cz": "0,3l Dius Cappy-jahoda",
+            "en": "0.3l Cappy Strawberries Juice"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "69",
           "description": {
             "ar": "",
-            "cz": "Ledová broskev, ledový meloun",
-            "en": "Iced Peach, Iced Watermelon"
+            "cz": "0,3l Dius Cappy-jahoda",
+            "en": "0.3l Cappy Strawberries Juice"
           }
         },
         {
           "name": {
-            "ar": "مكس بري",
-            "cz": "Směs bobulí",
-            "en": "Berries Mix"
+            "ar": "عصير كابي برتقال ٣٣٠مل",
+            "cz": "0,3l Dius Cappy-pomeranc",
+            "en": "0.3l Cappy Orange Juice"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "69",
           "description": {
             "ar": "",
-            "cz": "Ledová jahoda, ledová malina",
-            "en": "Iced Strawberry, iced raspberry"
+            "cz": "0,3l Dius Cappy-pomeranc",
+            "en": "0.3l Cappy Orange Juice"
           }
         },
         {
           "name": {
-            "ar": "لاڤ ٦٦",
-            "cz": "Láska 66",
-            "en": "Love 66"
+            "ar": "عصير كابي تفاح ٣٣٠مل",
+            "cz": "0,3l Dius Cappy-jablko",
+            "en": "0.3l Cappy Apple Juice"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "69",
           "description": {
             "ar": "",
-            "cz": "Směs ovoce",
-            "en": "Fruits Mix"
+            "cz": "0,3l Dius Cappy-jablko",
+            "en": "0.3l Cappy Apple Juice"
+          }
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "category_name": {
+        "en": "Coffee",
+        "ar": "قهوة",
+        "cz": "Kava"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "قهوة ريسترتو",
+            "cz": "Ristretto",
+            "en": "Ristretto"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "",
+            "cz": "Ristretto",
+            "en": "Ristretto"
           }
         },
         {
           "name": {
-            "ar": "مكس بابل الخاص",
-            "cz": "Speciální směs Babylon",
-            "en": "Babylon Special Mix"
+            "ar": "قهوة إسبرسو دوبيو",
+            "cz": "Espresso doppio",
+            "en": "Espresso doppio"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "69",
           "description": {
             "ar": "",
-            "cz": "Speciální směs Babylon",
-            "en": "Babylon Special Mix"
+            "cz": "Espresso doppio",
+            "en": "Espresso doppio"
           }
         },
         {
           "name": {
-            "ar": "تفاحتين",
-            "cz": "Dvě jablka",
-            "en": "Two Apples"
+            "ar": "قهوةإسبرسو ",
+            "cz": "Espresso",
+            "en": "Espresso"
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
-          "price": "550",
+          "image": "",
+          "price": "69",
           "description": {
             "ar": "",
-            "cz": "Dvě jablka",
-            "en": "Two Apples"
+            "cz": "Espresso",
+            "en": "Espresso"
+          }
+        },
+        {
+          "name": {
+            "ar": "قهوة لونجو ",
+            "cz": "Lungo",
+            "en": "Lungo"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "",
+            "cz": "Lungo",
+            "en": "Lungo"
+          }
+        },
+        {
+          "name": {
+            "ar": "قهوة إسبرسو ومكياتو",
+            "cz": "Espresso Macchiato",
+            "en": "Espresso Macchiato"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "",
+            "cz": "Espresso Macchiato",
+            "en": "Espresso Macchiato"
+          }
+        },
+        {
+          "name": {
+            "ar": "قهوة لاتيه مكياتو",
+            "cz": "Latte Macchiato",
+            "en": "Latte Macchiato"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "79",
+          "description": {
+            "ar": "",
+            "cz": "Latte Macchiato",
+            "en": "Latte Macchiato"
+          }
+        },
+        {
+          "name": {
+            "ar": "كابتشينو",
+            "cz": "Cappuccino",
+            "en": "Cappuccino"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "79",
+          "description": {
+            "ar": "",
+            "cz": "Cappuccino",
+            "en": "Cappuccino"
+          }
+        },
+        {
+          "name": {
+            "ar": "قهوة كافيه لاتيه",
+            "cz": "Caffe Latte",
+            "en": "Caffe Latte"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "79",
+          "description": {
+            "ar": "",
+            "cz": "Caffe Latte",
+            "en": "Caffe Latte"
+          }
+        },
+        {
+          "name": {
+            "ar": " قهوة فلات وايت",
+            "cz": "Flat White",
+            "en": "Flat White"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "79",
+          "description": {
+            "ar": "",
+            "cz": "Flat White",
+            "en": "Flat White"
+          }
+        },
+        {
+          "name": {
+            "ar": "هوت شوكليت",
+            "cz": "Horká čokoláda",
+            "en": "Hot chocolate"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "89",
+          "description": {
+            "ar": "",
+            "cz": "Horká čokoláda",
+            "en": "Hot chocolate"
+          }
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "category_name": {
+        "en": "Tea",
+        "ar": "قهوة",
+        "cz": "Čaj"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "",
+            "cz": "Arabská káva s kardamonem",
+            "en": "Arabic coffee with Kardamon"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "",
+            "cz": "Arabská káva s kardamonem",
+            "en": "Arabic coffee with Kardamon"
+          }
+        },
+        {
+          "name": {
+            "ar": "قهوة إسبرسو دوبيو",
+            "cz": "Čaj dle výběru",
+            "en": "Tea per order"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "",
+            "cz": "Čaj dle výběru",
+            "en": "Tea per order"
+          }
+        },
+        {
+          "name": {
+            "ar": "قهوة إسبرسو دوبيو",
+            "cz": "Zázvorový čaj s mátou",
+            "en": "Tea with ginger and mint"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "",
+            "cz": "Zázvorový čaj s matou",
+            "en": "Tea with ginger and mint"
+          }
+        },
+        {
+          "name": {
+            "ar": "قهوة إسبرسو دوبيو",
+            "cz": "Čaj s čerstvou mátou",
+            "en": "Tea with mint"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "",
+            "cz": "Zázvorový čaj s matou",
+            "en": "Tea with ginger and mint"
+          }
+        },
+        {
+          "name": {
+            "ar": "قهوة إسبرسو دوبيو",
+            "cz": "Čaj s mlékem",
+            "en": "Tea with milk"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "",
+            "cz": "Čaj s mlékem",
+            "en": "Tea with milk"
           }
         }
       ]
