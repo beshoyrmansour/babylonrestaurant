@@ -204,7 +204,7 @@
           },
           "id": "1_item_2",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "MushroomSoup.png",
           "price": "99",
           "description": {
             "ar": "شوربة الفطر",
@@ -290,7 +290,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "Hummus.png",
           "price": "119",
           "description": {
             "ar": "حمص",
@@ -445,7 +445,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "HummusWithMeat.png",
           "price": "199",
           "description": {
             "ar": "حمص باللحم",
@@ -477,7 +477,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "falafel.png",
           "price": "249",
           "description": {
             "ar": "",
@@ -584,7 +584,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "OkraWithMeat.png",
           "price": "399",
           "description": {
             "ar": "",
@@ -600,7 +600,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "WhiteBeansWithMeat.png",
           "price": "399",
           "description": {
             "ar": "",
@@ -632,7 +632,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "Dolma.png",
           "price": "199",
           "description": {
             "ar": "",
@@ -691,7 +691,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "GrilledChickenSteak.png",
           "price": "369",
           "description": {
             "ar": "",
@@ -723,7 +723,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "BeefSteak.png",
           "price": "399",
           "description": {
             "ar": "",
@@ -739,7 +739,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "food.jpeg",
+          "image": "LambTikka.png",
           "price": "399",
           "description": {
             "ar": "",
