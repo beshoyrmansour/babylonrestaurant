@@ -290,7 +290,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "Hummus.png",
+          "image": "Hummus.jpeg",
           "price": "119",
           "description": {
             "ar": "حمص",
@@ -477,7 +477,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "falafel.png",
+          "image":"Falafel.png",
           "price": "249",
           "description": {
             "ar": "",
