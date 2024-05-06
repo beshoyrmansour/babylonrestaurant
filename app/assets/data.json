@@ -263,7 +263,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "",
+          "image": "LambTikka.png",
           "price": "169",
           "description": {
             "ar": "",
@@ -675,7 +675,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "ShishTawook.png",
+          "image": "ChickenTikka.png",
           "price": "349",
           "description": {
             "ar": "",
@@ -739,7 +739,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "LambTikka.png",
+          "image": "ShishTawook.png",
           "price": "399",
           "description": {
             "ar": "",
