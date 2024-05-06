@@ -1186,7 +1186,7 @@
       "id": "11",
       "category_name": {
         "en": "Tea",
-        "ar": "قهوة",
+        "ar": "شاي",
         "cz": "Čaj"
       },
       "image": "pic5.png",
@@ -1194,8 +1194,8 @@
         {
           "name": {
             "ar": "",
-            "cz": "Arabská káva s kardamonem",
-            "en": "Arabic coffee with Kardamon"
+            "cz": "Arabská čaj s kardamonem",
+            "en": "Arabic tea with Kardamon"
           },
           "id": "2_item_1",
           "number": "001",
@@ -1203,8 +1203,8 @@
           "price": "69",
           "description": {
             "ar": "",
-            "cz": "Arabská káva s kardamonem",
-            "en": "Arabic coffee with Kardamon"
+            "cz": "Arabská čaj s kardamonem",
+            "en": "Arabic tea with Kardamon"
           }
         },
         {
