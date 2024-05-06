@@ -35,7 +35,7 @@ const Footer = (props: Props) => {
               <div className=" mt-3">
                 <a
                   target="_blank"
-                  href="https://www.instagram.com/palestinian_restaurant_prague/"
+                  href="https://www.instagram.com/restaurace.babylon/"
                   className='flex flex-row text-8xl'
                 >
                   <i className="fa fa-instagram text-8xl" style={{ fontSize: '120px' }} />
