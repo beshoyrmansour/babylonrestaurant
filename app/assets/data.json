@@ -1179,6 +1179,22 @@
             "cz": "Horká čokoláda",
             "en": "Hot chocolate"
           }
+        },
+        {
+          "name": {
+            "ar": "قهوة عربية بالهيل",
+            "cz": "Arabská kava s kardamonem",
+            "en": "Arabic coffee with Kardamon"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "69",
+          "description": {
+            "ar": "قهوة عربية بالهيل",
+            "cz": "Arabská kava s kardamonem",
+            "en": "Arabic coffee with Kardamon"
+          }
         }
       ]
     },
@@ -1193,7 +1209,7 @@
       "items": [
         {
           "name": {
-            "ar": "",
+            "ar": "شاي عربي بالهيل",
             "cz": "Arabská čaj s kardamonem",
             "en": "Arabic tea with Kardamon"
           },
@@ -1209,7 +1225,7 @@
         },
         {
           "name": {
-            "ar": "قهوة إسبرسو دوبيو",
+            "ar": "شاي حسب الطلب",
             "cz": "Čaj dle výběru",
             "en": "Tea per order"
           },
@@ -1225,7 +1241,7 @@
         },
         {
           "name": {
-            "ar": "قهوة إسبرسو دوبيو",
+            "ar": "شاي بالزنجبيل و النعناع",
             "cz": "Zázvorový čaj s mátou",
             "en": "Tea with ginger and mint"
           },
@@ -1241,7 +1257,7 @@
         },
         {
           "name": {
-            "ar": "قهوة إسبرسو دوبيو",
+            "ar": "شاي بالنعناع",
             "cz": "Čaj s čerstvou mátou",
             "en": "Tea with mint"
           },
@@ -1257,7 +1273,7 @@
         },
         {
           "name": {
-            "ar": "قهوة إسبرسو دوبيو",
+            "ar": "شاي باللبن",
             "cz": "Čaj s mlékem",
             "en": "Tea with milk"
           },
@@ -1269,6 +1285,537 @@
             "ar": "",
             "cz": "Čaj s mlékem",
             "en": "Tea with milk"
+          }
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "category_name": {
+        "en": "Wine",
+        "ar": "نبيذ",
+        "cz": "Víno"
+      },
+      "image": "",
+      "items": [
+        {
+          "name": {
+            "ar": "",
+            "cz": "Armenia jemisweet Red Wine",
+            "en": "Armenia jemisweet Red Wine"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "150 ml",
+              "value": "99"
+            },
+            {
+              "size": "750 ml",
+              "value": "499"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "Armenia jemisweet Red Wine",
+            "en": "Armenia jemisweet Red Wine"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Armenia Pomegranate Sweet",
+            "en": "Armenia Pomegranate Sweet"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "150 ml",
+              "value": "109"
+            },
+            {
+              "size": "750 ml",
+              "value": "599"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "Armenia Pomegranate Sweet",
+            "en": "Armenia Pomegranate Sweet"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Armenia SemiSweet",
+            "en": "Armenia SemiSweet"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "150 ml",
+              "value": "109"
+            },
+            {
+              "size": "750 ml",
+              "value": "599"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "Armenia SemiSweet",
+            "en": "Armenia SemiSweet"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "ljevan Red Semi sweet wine",
+            "en": "ljevan Red Semi sweet wine"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "150 ml",
+              "value": "99"
+            },
+            {
+              "size": "750 ml",
+              "value": "499"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "ljevan Red Semi sweet wine",
+            "en": "ljevan Red Semi sweet wine"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Armenia Dry White Wine",
+            "en": "Armenia Dry White Wine"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "150 ml",
+              "value": "99"
+            },
+            {
+              "size": "750 ml",
+              "value": "499"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "Armenia Dry White Wine",
+            "en": "Armenia Dry White Wine"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Armenia jemisweet White Wine",
+            "en": "Armenia jemisweet White Wine"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "150 ml",
+              "value": "99"
+            },
+            {
+              "size": "750 ml",
+              "value": "499"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "Armenia jemisweet White Wine",
+            "en": "Armenia jemisweet White Wine"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Prosecco",
+            "en": "Prosecco"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "150 ml",
+              "value": "99"
+            },
+            {
+              "size": "750 ml",
+              "value": "499"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "Prosecco",
+            "en": "Prosecco"
+          }
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "category_name": {
+        "en": "Cocktail",
+        "ar": "كوكتيل",
+        "cz": "Koktel"
+      },
+      "image": "",
+      "items": [
+        {
+          "name": {
+            "ar": "",
+            "cz": "Aperol",
+            "en": "Aperol"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "169",
+          "description": {
+            "ar": "",
+            "cz": "Aperol",
+            "en": "Aperol"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Cubalibre",
+            "en": "Cubalibre"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "159",
+          "description": {
+            "ar": "",
+            "cz": "Cubalibre",
+            "en": "Cubalibre"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Gin s tonikem",
+            "en": "Gin and Tonic"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "169",
+          "description": {
+            "ar": "",
+            "cz": "Gin s tonikem",
+            "en": "Gin and Tonic"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Jägerbomba",
+            "en": "Jägerbomba"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "179",
+          "description": {
+            "ar": "",
+            "cz": "Jägerbomba",
+            "en": "Jägerbomba"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Mojito Alk",
+            "en": "Mojito Alcoholic"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "179",
+          "description": {
+            "ar": "",
+            "cz": "Mojito Alk",
+            "en": "Mojito Alcoholic"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Mojito Ne Alk",
+            "en": "Mojito Non-Alcoholic"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "179",
+          "description": {
+            "ar": "",
+            "cz": "Mojito Ne Alk",
+            "en": "Mojito Non-Alcoholic"
+          }
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "category_name": {
+        "en": "Vodka",
+        "ar": "فودكا",
+        "cz": "Vodka"
+      },
+      "image": "",
+      "items": [
+        {
+          "name": {
+            "ar": "",
+            "cz": "0.4l Finska vodka",
+            "en": "0.4l Finska vodka"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "99",
+          "description": {
+            "ar": "",
+            "cz": "0.4l Finska vodka",
+            "en": "0.4l Finska vodka"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "0.4l Absolut vodka",
+            "en": "0.4l Absolut vodka"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "99",
+          "description": {
+            "ar": "",
+            "cz": "0.4l Absolut vodka",
+            "en": "0.4l Absolut vodka"
+          }
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "category_name": {
+        "en": "Whisky",
+        "ar": "ويسكي",
+        "cz": "Whisky"
+      },
+      "image": "",
+      "items": [
+        {
+          "name": {
+            "ar": "",
+            "cz": "0.4l Jameson",
+            "en": "0.4l Jameson"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "99",
+          "description": {
+            "ar": "",
+            "cz": "0.4l Jameson",
+            "en": "0.4l Jameson"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "0.4l Jack Daniel's classic",
+            "en": "0.4l Jack Daniel's classic"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "109",
+          "description": {
+            "ar": "",
+            "cz": "0.4l Jack Daniel's classic",
+            "en": "0.4l Jack Daniel's classic"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "0.4l Jack Daniel's Honey",
+            "en": "0.4l Jack Daniel's Honey"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "109",
+          "description": {
+            "ar": "",
+            "cz": "0.4l Jack Daniel's Honey",
+            "en": "0.4l Jack Daniel's Honey"
+          }
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "category_name": {
+        "en": "Raki",
+        "ar": "راكي",
+        "cz": "Raki"
+      },
+      "image": "",
+      "items": [
+        {
+          "name": {
+            "ar": "",
+            "cz": "0.4l Yeni Raki",
+            "en": "0.4l Yeni Raki"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "149",
+          "description": {
+            "ar": "",
+            "cz": "0.4l Yeni Raki",
+            "en": "0.4l Yeni Raki"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "0.4l Absinth",
+            "en": "0.4l Absinth"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "99",
+          "description": {
+            "ar": "",
+            "cz": "0.4l Absinth",
+            "en": "0.4l Absinth"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "0.4l Metaxa",
+            "en": "0.4l Metaxa"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "99",
+          "description": {
+            "ar": "",
+            "cz": "0.4l Metaxa",
+            "en": "0.4l Metaxa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "category_name": {
+        "en": "Beer",
+        "ar": "بيرة",
+        "cz": "Pivo"
+      },
+      "image": "",
+      "items": [
+        {
+          "name": {
+            "ar": "",
+            "cz": "Pilsner Urquell",
+            "en": "Pilsner Urquell"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "0.33 l",
+              "value": "49"
+            },
+            {
+              "size": "0.5 l",
+              "value": "69"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "Pilsner Urquell",
+            "en": "Pilsner Urquell"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Gambrinus",
+            "en": "Gambrinus"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": [
+            {
+              "size": "0.33 l",
+              "value": "39"
+            },
+            {
+              "size": "0.5 l",
+              "value": "59"
+            }
+          ],
+          "description": {
+            "ar": "",
+            "cz": "Gambrinus",
+            "en": "Gambrinus"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
+            "cz": "Birell nealkoholické pivo",
+            "en": "Birell Non Alcoholic beer"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "",
+          "price": "49",
+          "description": {
+            "ar": "",
+            "cz": "Birell nealkoholické pivo",
+            "en": "Birell Non Alcoholic beer"
           }
         }
       ]
