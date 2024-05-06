@@ -34,7 +34,7 @@ export default function Menu() {
 
 
         <div className=" divide-y divide-yellow-600 row-span-2">
-          <h1 className="text-center"><p className="text-6xl pt-2 w-full font-lugrasimo">Menu</p>
+          <h1 className="text-center"><p className="text-5xl pt-2 w-full font-lugrasimo">Menu</p>
             <button onClick={handleChangeLang} className="text-xl"><span className={currentLanguage === Languages.en ? 'text-yellow-100' : 'text-yellow-700'}>EN</span> / <span className={currentLanguage === Languages.cz ? 'text-yellow-100' : 'text-yellow-700'}>CZ</span></button>
           </h1>
           <div className="sticky  top-0 bg-[#14100D] w-full">
