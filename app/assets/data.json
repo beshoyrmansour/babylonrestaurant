@@ -221,7 +221,7 @@
           "id": "1_item_2",
           "number": "001",
           "image": "Borsh.png",
-          "price": "119",
+          "price": "129",
           "description": {
             "ar": "شوربة البورش باللحم",
             "cz": "Boršč polévka s hovezim masem",
@@ -307,7 +307,7 @@
           "id": "2_item_1",
           "number": "001",
           "image": "Hummus.png",
-          "price": "119",
+          "price": "139",
           "description": {
             "ar": "حمص",
             "cz": "Pyré z varené eizrny s tahini, olivovým olejem a eitronovou Stávou",
@@ -323,7 +323,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "BabaGhanoush.png",
-          "price": "129",
+          "price": "149",
           "description": {
             "ar": "",
             "en": "Cooked eggplant purée with sesame oil and lemon juice",
@@ -371,7 +371,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "",
-          "price": "119",
+          "price": "159",
           "description": {
             "ar": "",
             "en": "Tomatoes, cucumbers, paprika, onion, olive oil",
@@ -387,7 +387,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "Tzatziki.png",
-          "price": "119",
+          "price": "139",
           "description": {
             "ar": "",
             "en": "yogurt with mint, garlic and cucumber",
@@ -403,7 +403,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "Adzika.png",
-          "price": "119",
+          "price": "139",
           "description": {
             "ar": "",
             "en": "Tomatoes, eucumbers, paprika, onion, olive oil",
@@ -419,7 +419,7 @@
           "id": "2_item_2",
           "number": "001",
           "image": "",
-          "price": "129",
+          "price": "139",
           "description": {
             "ar": "",
             "en": "Baked eggplant dip with pomegranat",
@@ -465,7 +465,7 @@
           "price": "199",
           "description": {
             "ar": "حمص باللحم",
-            "cz": "Vařená cizrnová kaše s tahini mletým masem a ořechy",
+            "cz": "Vařená cizrnová kaše s tahini mletým masem a oříšky",
             "en": "Cooked chickpeas purée with tahine minced meat and nuts"
           }
         },
@@ -540,7 +540,7 @@
           "price": "349",
           "description": {
             "ar": "",
-            "cz": "kuřce, rýže kabse, petržel, ořechy",
+            "cz": "kuřce, rýže kabse, petržel, oříšky",
             "en": "Chicken, rice Kabsa, parsley, nuts"
           }
         },
@@ -557,7 +557,7 @@
           "description": {
             "ar": "",
             "en": "lamb, rice Kabsa, parsley, nuts",
-            "cz": "Jehněčí maso, rýže kabse, petržel, ořechy"
+            "cz": "Jehněčí maso, rýže kabse, petržel, oříšky"
           }
         },
         {
@@ -589,7 +589,7 @@
           "description": {
             "ar": "",
             "en": "Chicken, biryani rice, parsley, nuts",
-            "cz": "Kuřecí maso, biryani rýže, petržel, ořechy"
+            "cz": "Kuřecí maso, biryani rýže, petržel, oříšky"
           }
         },
         {
