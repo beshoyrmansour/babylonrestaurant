@@ -211,6 +211,22 @@
             "cz": "Houbová polévka",
             "en": "Mushroom Soup"
           }
+        },
+        {
+          "name": {
+            "ar": "شوربة البورش باللحم",
+            "cz": "Boršč polévka s hovezim masem",
+            "en": "borsch soup with beef"
+          },
+          "id": "1_item_2",
+          "number": "001",
+          "image": "Borsh.png",
+          "price": "119",
+          "description": {
+            "ar": "شوربة البورش باللحم",
+            "cz": "Boršč polévka s hovezim masem",
+            "en": "borsch soup with beef"
+          }
         }
       ]
     },
@@ -247,7 +263,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "CaesarSalad.png",
+          "image": "CeaserSalad.png",
           "price": "149",
           "description": {
             "ar": "",
@@ -263,7 +279,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "LambTikka.png",
+          "image": "SaladWithMeat.png",
           "price": "169",
           "description": {
             "ar": "",
@@ -306,7 +322,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "",
+          "image": "BabaGhanoush.png",
           "price": "129",
           "description": {
             "ar": "",
@@ -418,7 +434,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "",
+          "image": "GreekSalad.png",
           "price": "159",
           "description": {
             "ar": "",
@@ -520,7 +536,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "",
+          "image": "ChickenKabsa.png",
           "price": "349",
           "description": {
             "ar": "",
@@ -675,7 +691,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "ChickenTikka.png",
+          "image": "ShishTawook.png",
           "price": "349",
           "description": {
             "ar": "",
@@ -739,7 +755,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "ShishTawook.png",
+          "image": "LambTikka.png",
           "price": "399",
           "description": {
             "ar": "",
