@@ -23,7 +23,17 @@ const MenuItem = (props: Props) => {
         </span>
         <div className='connector' />
         <span className='text-nowrap  text-2xl'>
-          {item.price} Kč
+          {Array.isArray(item.price) ? <span className='flex gap-6'> {item.price.map(price => (
+            <div className='flex flex-col'>
+
+              <span className='text-xl text-yellow-100'>{price.size}</span>
+              <span className='text-2xl'>{price.value} Kč </span>
+
+            </div>
+          )
+
+          )}</span> : <>{item.price}  Kč</>}
+
         </span>
       </div>
       <div className="flex text-nowrap w-full justify-between font-lugrasimo mt-1">
