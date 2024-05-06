@@ -338,7 +338,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "",
+          "image": "Tabola.png",
           "price": "159",
           "description": {
             "ar": "",
@@ -370,7 +370,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "",
+          "image": "Tzatziki.png",
           "price": "119",
           "description": {
             "ar": "",
@@ -386,7 +386,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "",
+          "image": "Adzika.png",
           "price": "119",
           "description": {
             "ar": "",
@@ -493,7 +493,7 @@
           },
           "id": "2_item_2",
           "number": "001",
-          "image": "",
+          "image": "Kibbeh.png",
           "price": "249",
           "description": {
             "ar": "",
@@ -659,7 +659,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "",
+          "image": "GrilledChickenWings.png",
           "price": "299",
           "description": {
             "ar": "",
@@ -782,7 +782,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "",
+          "image": "MixGrill.png",
           "price": "649",
           "description": {
             "ar": "",
@@ -798,7 +798,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "",
+          "image": "MixGrill.png",
           "price": "1119",
           "description": {
             "ar": "",
@@ -814,7 +814,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "",
+          "image": "MixGrill.png",
           "price": "2299",
           "description": {
             "ar": "",
@@ -830,7 +830,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "",
+          "image": "MixGrill.png",
           "price": "3499",
           "description": {
             "ar": "",
