@@ -20,9 +20,9 @@ const Footer = (props: Props) => {
               <h3 className='text-yellow-100 mb-2 text-2xl font-lugrasimo'>
                 {lang === "en" ? "For reservation" : "Pro rezervaci"}
               </h3>
-              <a href="tel:+420602342820">
+              <a href="tel:+420773154848">
                 <span className="text-3xl">
-                  +420 602 342 820
+                  +420 773 154 848
                 </span>
 
               </a>
