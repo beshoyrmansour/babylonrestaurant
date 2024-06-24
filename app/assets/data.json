@@ -1,6 +1,691 @@
 {
   "menu": [
     {
+      "id": "1",
+      "category_name": {
+        "en": "Soup",
+        "ar": "شوربة",
+        "cz": "Polévka"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "شوربة العدس",
+            "cz": "Cocková polévka",
+            "en": "Lentil Soup"
+          },
+          "id": "1_item_1",
+          "number": "001",
+          "image": "LentilSoup.png",
+          "price": "89",
+          "description": {
+            "ar": "شوربة العدس",
+            "cz": "Cocková polévka",
+            "en": "Lentil Soup"
+          }
+        },
+        {
+          "name": {
+            "ar": "شوربة الفطر",
+            "cz": "Houbová polévka",
+            "en": "Mushroom Soup"
+          },
+          "id": "1_item_2",
+          "number": "001",
+          "image": "MushroomSoup.png",
+          "price": "99",
+          "description": {
+            "ar": "شوربة الفطر",
+            "cz": "Houbová polévka",
+            "en": "Mushroom Soup"
+          }
+        },
+        {
+          "name": {
+            "ar": "شوربة البورش باللحم",
+            "cz": "Boršč polévka s hovezim masem",
+            "en": "borsch soup with beef"
+          },
+          "id": "1_item_2",
+          "number": "001",
+          "image": "Borsh.png",
+          "price": "129",
+          "description": {
+            "ar": "شوربة البورش باللحم",
+            "cz": "Boršč polévka s hovezim masem",
+            "en": "borsch soup with beef"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "category_name": {
+        "en": "Grill Meals Per Person",
+        "ar": "وجبات مشاوي بالفرد",
+        "cz": "Grilovaná jídla na osobu"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "مكس جريل لفرد ٣٣٠ ج",
+            "cz": "Mix gril pro 1 osoba 330g",
+            "en": "Mix grill for 1 person 330g"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "MixGrill.png",
+          "price": "649",
+          "description": {
+            "ar": "",
+            "cz": "1x Šiš taouk, 1x jehněčí tikka, 1x Šiš Kabab, 1x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
+            "en": "1x shish taouk, 1x lamb tikka, 1x shish kebab, 1x lamb ribs, grilled vegetables, fries / rice, dressing"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس جريل لفردين ٦٦٠ ج",
+            "cz": "Mix gril pro 2 osoby 660g",
+            "en": "Mix grill for 2 people 660g"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "MixGrill.png",
+          "price": "1119",
+          "description": {
+            "ar": "",
+            "cz": "2x Šiš taouk, 2x jehněčí tikka, 2x Šiš Kabab, 2x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
+            "en": "2x shish taouk, 2x lamb tikka, 2x shish kebab, 2x lamb ribs, grilled vegetables, fries / rice, dressing"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس جريل لثلاث أفراد ١١٠٠ ج",
+            "cz": "Mix gril pro 3 osoby 1100g",
+            "en": "Mix grill for 3 people 1100g"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "MixGrill.png",
+          "price": "2299",
+          "description": {
+            "ar": "",
+            "cz": "3x Šiš taouk, 3x jehněčí tikka, 3x Šiš Kabab, 3x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
+            "en": "3x shish taouk, 3x lamb tikka, 3x shish kebab, 3x lamb ribs, grilled vegetables, fries / rice, dressing"
+          }
+        },
+        {
+          "name": {
+            "ar": "مكس جريل لأربع أفراد ١٥٠٠ ج",
+            "cz": "Mix gril pro 4 osoby 1500g",
+            "en": "Mix grill for 4 people 1500g"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "MixGrill.png",
+          "price": "3499",
+          "description": {
+            "ar": "",
+            "cz": "4x Šiš taouk, 4x jehněčí tikka, 4x Šiš Kabab, 4x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
+            "en": "4x shish taouk, 4x lamb tikka, 4x shish kebab, 4x lamb ribs, grilled vegetables, fries / rice, dressing"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category_name": {
+        "en": "Cold appetizers",
+        "ar": "المقبلات الباردة",
+        "cz": "Studené předkrmy"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "حمص",
+            "cz": "Hummus",
+            "en": "Hummus"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "Hummus.png",
+          "price": "139",
+          "description": {
+            "ar": "حمص",
+            "cz": "Pyré z varené eizrny s tahini, olivovým olejem a eitronovou Stávou",
+            "en": "Cooked chickpeas purée with tahine oil and lemon juice"
+          }
+        },
+        {
+          "name": {
+            "ar": "بابا غنوج متبل الباذنجان",
+            "cz": "Babaganush",
+            "en": "Babaganush"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "BabaGhanoush.png",
+          "price": "149",
+          "description": {
+            "ar": "",
+            "en": "Cooked eggplant purée with sesame oil and lemon juice",
+            "cz": "Pecený lilek se sezamovym olejem a eitrónovou Stávou"
+          }
+        },
+        {
+          "name": {
+            "ar": "فتوش",
+            "cz": "Fattoush",
+            "en": "Fattoush"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "Fatosh.png",
+          "price": "159",
+          "description": {
+            "ar": "",
+            "en": "Vegetabels, iceberg salad, fried pieces of pita bread, olive oil",
+            "cz": "Zelenina, ledovy salát, smaz. kousky pita chleba, olivový olej"
+          }
+        },
+        {
+          "name": {
+            "ar": "تبولة",
+            "cz": "Tabbouleh",
+            "en": "Tabbouleh"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "Tabola.png",
+          "price": "159",
+          "description": {
+            "ar": "",
+            "en": "Tomatoes, parsley, onion, bulgur",
+            "cz": "Rajeata, petrzel,Cibule, bulgur"
+          }
+        },
+        {
+          "name": {
+            "ar": "سلطة عربية",
+            "cz": "Arabský salát",
+            "en": "Arabic Salad"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "",
+          "price": "159",
+          "description": {
+            "ar": "",
+            "en": "Tomatoes, cucumbers, paprika, onion, olive oil",
+            "cz": "Rajeata, okurky, paprika, cibule, olivovy olej"
+          }
+        },
+        {
+          "name": {
+            "ar": "سلطة خيار باللبن",
+            "cz": "Tzatziki",
+            "en": "Yogurt Cucumber Salad"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "Tzatziki.png",
+          "price": "139",
+          "description": {
+            "ar": "",
+            "en": "yogurt with mint, garlic and cucumber",
+            "cz": "jogurt s mátou, eesnekem aokurkou"
+          }
+        },
+        {
+          "name": {
+            "ar": "ادزيكا",
+            "cz": "Adzika",
+            "en": "Adzika"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "Adzika.png",
+          "price": "139",
+          "description": {
+            "ar": "",
+            "en": "Tomatoes, eucumbers, paprika, onion, olive oil",
+            "cz": "Rajeata, okurky, paprika, cibule, olivovy ole"
+          }
+        },
+        {
+          "name": {
+            "ar": "ليلكوڤي كاڤيار",
+            "cz": "Lilkový kaviár",
+            "en": "Lilkovy kaviar"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "",
+          "price": "139",
+          "description": {
+            "ar": "",
+            "en": "Baked eggplant dip with pomegranat",
+            "cz": "dip z peceného lilku s granátovýmjablkem"
+          }
+        },
+        {
+          "name": {
+            "ar": "سلطة يونانية",
+            "cz": "Greek Salát",
+            "en": "Greek Salad"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "GreekSalad.png",
+          "price": "159",
+          "description": {
+            "ar": "",
+            "en": "tomatoes, eucumber, pepper, olives, balean Cheese",
+            "cz": "Rajeata,okurka,paprika,olivy,balkán.syr"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category_name": {
+        "en": "Salads",
+        "ar": "سلطة",
+        "cz": "Salát"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "سلطة مشكل",
+            "cz": "Michany salát",
+            "en": "Mixed Salad"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "MixedSalad.png",
+          "price": "119",
+          "description": {
+            "ar": "سلطة مشكل",
+            "cz": "Michany salát",
+            "en": "Mixed Salad"
+          }
+        },
+        {
+          "name": {
+            "ar": "سلطة سيزر بالدجاج",
+            "cz": "Kuřecím Caesar salát",
+            "en": "Chicken Caesar salad"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "CeaserSalad.png",
+          "price": "149",
+          "description": {
+            "ar": "",
+            "en": "Caesar Salad with chicken",
+            "cz": "Caesar salát s kurecim masem"
+          }
+        },
+        {
+          "name": {
+            "ar": "سلطة ساخنة باللحم",
+            "cz": "Teplý salát s hovezím masem",
+            "en": "Warm salad with beef"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "SaladWithMeat.png",
+          "price": "169",
+          "description": {
+            "ar": "",
+            "en": "Caesar Salad with chicken",
+            "cz": "Caesar salát s kurecim masem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "category_name": {
+        "en": "Main Course",
+        "ar": "الوجبات الرئيسية",
+        "cz": "Hlavní jídlo"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "كبسة دجاج",
+            "cz": "Kabsa kurecí",
+            "en": "Chiken Kabsa"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "ChickenKabsa.png",
+          "price": "349",
+          "description": {
+            "ar": "",
+            "cz": "kuřce, rýže kabse, petržel, oříšky",
+            "en": "Chicken, rice Kabsa, parsley, nuts"
+          }
+        },
+        {
+          "name": {
+            "ar": "قوزي خروف",
+            "cz": "Jehněčí maso Qozi",
+            "en": "Lamb Qozi"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "LambQozi.png",
+          "price": "399",
+          "description": {
+            "ar": "",
+            "en": "lamb, rice Kabsa, parsley, nuts",
+            "cz": "Jehněčí maso, rýže kabse, petržel, oříšky"
+          }
+        },
+        {
+          "name": {
+            "ar": "تشريب اللحم الأحمر",
+            "cz": "Tashreeb z červeného masa",
+            "en": "Tashreeb from red meat"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "",
+          "price": "399",
+          "description": {
+            "ar": "",
+            "en": "Meat, onion, grated lemon, tomato sauce, rice",
+            "cz": "Maso, cibule ,šusený citrón, rajca továomácka, rýze"
+          }
+        },
+        {
+          "name": {
+            "ar": "برياني دجاج",
+            "cz": "Kuřecí Biryani",
+            "en": "Chiken Biryani"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "",
+          "price": "349",
+          "description": {
+            "ar": "",
+            "en": "Chicken, biryani rice, parsley, nuts",
+            "cz": "Kuřecí maso, biryani rýže, petržel, oříšky"
+          }
+        },
+        {
+          "name": {
+            "ar": "بامية باللحم",
+            "cz": "Bamia(okra) s masem",
+            "en": "Okra with meat"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "OkraWithMeat.png",
+          "price": "399",
+          "description": {
+            "ar": "",
+            "en": "Okra with meat, rice, tomato sauce",
+            "cz": "Okra s masem, rýže, rajčatová omáčka"
+          }
+        },
+        {
+          "name": {
+            "ar": "فاصوليا بيضاء باللحم",
+            "cz": "Bílé fazole s masem",
+            "en": "White beans with meat"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "WhiteBeansWithMeat.png",
+          "price": "399",
+          "description": {
+            "ar": "",
+            "en": "White beans with meat, rice, tomato sauce",
+            "cz": "Bílé fazole s masem, rýže, rajčatová omáčka"
+          }
+        },
+        {
+          "name": {
+            "ar": "تبس بتنجان",
+            "cz": "Tepsi Lilek",
+            "en": "Tepsi Eggplant"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "",
+          "price": "399",
+          "description": {
+            "ar": "",
+            "en": "Lamb, eggplant, potatos, onions, red sauce",
+            "cz": "Jehněčí maso, lilek, brambory, cibule, červená omáčka"
+          }
+        },
+        {
+          "name": {
+            "ar": "الدولمة العراقية",
+            "cz": "Dolma",
+            "en": "Dolma"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "Dolma.png",
+          "price": "199",
+          "description": {
+            "ar": "",
+            "en": "Grape leaves stuffed with rice, vegetables and olive oil",
+            "cz": "Vinné listy pinéné ryzi, zeleninou a olivovym olejem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "category_name": {
+        "en": "Warm appetizers",
+        "ar": "مقبلات ساخنة",
+        "cz": "Teplé predkrmy"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "حمص باللحم",
+            "cz": "Hummus s masem",
+            "en": "Hummus with meat"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "HummusWithMeat.png",
+          "price": "199",
+          "description": {
+            "ar": "حمص باللحم",
+            "cz": "Vařená cizrnová kaše s tahini mletým masem a oříšky",
+            "en": "Cooked chickpeas purée with tahine minced meat and nuts"
+          }
+        },
+        {
+          "name": {
+            "ar": "فول مدمس",
+            "cz": "Foul mudammas",
+            "en": "Foul mudammas"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "",
+          "price": "139",
+          "description": {
+            "ar": "",
+            "en": "Foul mudammas,olive oil and lemon juice",
+            "cz": "Foul mudammas, olivovým olejem a citronovou stávou"
+          }
+        },
+        {
+          "name": {
+            "ar": "فلافل",
+            "cz": "Falafel",
+            "en": "Falafel"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image":"Falafel.png",
+          "price": "249",
+          "description": {
+            "ar": "",
+            "en": "Fried chickpea meatballs, tahini sauce, salad",
+            "cz": "smažené cizrnové karbanátky, tahini omáčka, salát"
+          }
+        },
+        {
+          "name": {
+            "ar": "كبة",
+            "cz": "Kibbeh",
+            "en": "Kibbeh"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "Kibbeh.png",
+          "price": "249",
+          "description": {
+            "ar": "",
+            "en": "Fried balls made from a mixture of meat, crushed wheat, onion and pineseeds",
+            "cz": "Smažené kuličky ze směsi masa, drcené pšenice, cibule a piniových semínek"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "category_name": {
+        "en": "Grill",
+        "ar": "مشاوي",
+        "cz": "Grill"
+      },
+      "image": "pic5.png",
+      "items": [
+        {
+          "name": {
+            "ar": "أجنحة الدجاج المشوية",
+            "cz": "Grilovaná kuřecí křídla",
+            "en": "Grilled chicken Wings"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "GrilledChickenWings.png",
+          "price": "299",
+          "description": {
+            "ar": "",
+            "cz": "8 kuřecích křídel, salát, hranolky/rýže, dresink",
+            "en": "8 chicken wings, salad, fries / rice, dressing"
+          }
+        },
+        {
+          "name": {
+            "ar": "شيش طاووق",
+            "cz": "Šiš taouk",
+            "en": "Shish Taouk"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "ShishTawook.png",
+          "price": "349",
+          "description": {
+            "ar": "",
+            "en": "Marinated chicken pieces on grill, salad, chips / rice, dressing",
+            "cz": "Marinované kuřecí kousky na grilu, salát, hranolky/rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "ستيك دجاج مشوي",
+            "cz": "Grilovaný kuřecí steak",
+            "en": "Grilled Chicken Steak"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "GrilledChickenSteak.png",
+          "price": "369",
+          "description": {
+            "ar": "",
+            "en": "Chicken breasts on grill, salad, chips / rice, dressing",
+            "cz": "Kuřecí prsa na grilu, salát, chipsy/rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "شيش كباب",
+            "cz": "Šiš Kebab",
+            "en": "Shish kabab"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "ShishKebab.png",
+          "price": "349",
+          "description": {
+            "ar": "",
+            "en": "Grilled minced lamb, salad. french fries / rice, dressing",
+            "cz": "Grilované mleté jehněčí maso, salát. hranolky/rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "ستيك لحم",
+            "cz": "Hovězí steak",
+            "en": "Beef steak"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "BeefSteak.png",
+          "price": "399",
+          "description": {
+            "ar": "",
+            "en": "Beef steak on grill, salad, fries / rice, dressing",
+            "cz": "Hovězí steak na grilu, salát, hranolky/rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "تكا خروف",
+            "cz": "Jehněčí Tikka",
+            "en": "Lamb Tikka"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "LambTikka.png",
+          "price": "399",
+          "description": {
+            "ar": "",
+            "en": "Grilled lamb pastry, salad, french fries / rice, dressing",
+            "cz": "Grilované jehněčí pečivo, salát, hranolky / rýže, dresink"
+          }
+        },
+        {
+          "name": {
+            "ar": "ضلوع خروف",
+            "cz": "Jehněčí žebirka",
+            "en": "Lamb Ribs"
+          },
+          "id": "2_item_2",
+          "number": "001",
+          "image": "LambRibs.png",
+          "price": "449",
+          "description": {
+            "ar": "",
+            "en": "4x grilled lamb ribs, salad, french fries / rice, dressing",
+            "cz": "4x grilovaná jehněčí žebírka, salát, hranolky/rýže, dresink"
+          }
+        }
+      ]
+    },
+    {
       "id": "8",
       "category_name": {
         "en": "Shisha",
@@ -170,692 +855,7 @@
           }
         }
       ]
-    },
-    {
-      "id": "1",
-      "category_name": {
-        "en": "Soup",
-        "ar": "شوربة",
-        "cz": "Polévka"
-      },
-      "image": "pic5.png",
-      "items": [
-        {
-          "name": {
-            "ar": "شوربة العدس",
-            "cz": "Cocková polévka",
-            "en": "Lentil Soup"
-          },
-          "id": "1_item_1",
-          "number": "001",
-          "image": "LentilSoup.png",
-          "price": "89",
-          "description": {
-            "ar": "شوربة العدس",
-            "cz": "Cocková polévka",
-            "en": "Lentil Soup"
-          }
-        },
-        {
-          "name": {
-            "ar": "شوربة الفطر",
-            "cz": "Houbová polévka",
-            "en": "Mushroom Soup"
-          },
-          "id": "1_item_2",
-          "number": "001",
-          "image": "MushroomSoup.png",
-          "price": "99",
-          "description": {
-            "ar": "شوربة الفطر",
-            "cz": "Houbová polévka",
-            "en": "Mushroom Soup"
-          }
-        },
-        {
-          "name": {
-            "ar": "شوربة البورش باللحم",
-            "cz": "Boršč polévka s hovezim masem",
-            "en": "borsch soup with beef"
-          },
-          "id": "1_item_2",
-          "number": "001",
-          "image": "Borsh.png",
-          "price": "129",
-          "description": {
-            "ar": "شوربة البورش باللحم",
-            "cz": "Boršč polévka s hovezim masem",
-            "en": "borsch soup with beef"
-          }
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "category_name": {
-        "en": "Salads",
-        "ar": "سلطة",
-        "cz": "Salát"
-      },
-      "image": "pic5.png",
-      "items": [
-        {
-          "name": {
-            "ar": "سلطة مشكل",
-            "cz": "Michany salát",
-            "en": "Mixed Salad"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "MixedSalad.png",
-          "price": "119",
-          "description": {
-            "ar": "سلطة مشكل",
-            "cz": "Michany salát",
-            "en": "Mixed Salad"
-          }
-        },
-        {
-          "name": {
-            "ar": "سلطة سيزر بالدجاج",
-            "cz": "Kuřecím Caesar salát",
-            "en": "Chicken Caesar salad"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "CeaserSalad.png",
-          "price": "149",
-          "description": {
-            "ar": "",
-            "en": "Caesar Salad with chicken",
-            "cz": "Caesar salát s kurecim masem"
-          }
-        },
-        {
-          "name": {
-            "ar": "سلطة ساخنة باللحم",
-            "cz": "Teplý salát s hovezím masem",
-            "en": "Warm salad with beef"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "SaladWithMeat.png",
-          "price": "169",
-          "description": {
-            "ar": "",
-            "en": "Caesar Salad with chicken",
-            "cz": "Caesar salát s kurecim masem"
-          }
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "category_name": {
-        "en": "Cold appetizers",
-        "ar": "المقبلات الباردة",
-        "cz": "Studené předkrmy"
-      },
-      "image": "pic5.png",
-      "items": [
-        {
-          "name": {
-            "ar": "حمص",
-            "cz": "Hummus",
-            "en": "Hummus"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "Hummus.png",
-          "price": "139",
-          "description": {
-            "ar": "حمص",
-            "cz": "Pyré z varené eizrny s tahini, olivovým olejem a eitronovou Stávou",
-            "en": "Cooked chickpeas purée with tahine oil and lemon juice"
-          }
-        },
-        {
-          "name": {
-            "ar": "بابا غنوج متبل الباذنجان",
-            "cz": "Babaganush",
-            "en": "Babaganush"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "BabaGhanoush.png",
-          "price": "149",
-          "description": {
-            "ar": "",
-            "en": "Cooked eggplant purée with sesame oil and lemon juice",
-            "cz": "Pecený lilek se sezamovym olejem a eitrónovou Stávou"
-          }
-        },
-        {
-          "name": {
-            "ar": "فتوش",
-            "cz": "Fattoush",
-            "en": "Fattoush"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "Fatosh.png",
-          "price": "159",
-          "description": {
-            "ar": "",
-            "en": "Vegetabels, iceberg salad, fried pieces of pita bread, olive oil",
-            "cz": "Zelenina, ledovy salát, smaz. kousky pita chleba, olivový olej"
-          }
-        },
-        {
-          "name": {
-            "ar": "تبولة",
-            "cz": "Tabbouleh",
-            "en": "Tabbouleh"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "Tabola.png",
-          "price": "159",
-          "description": {
-            "ar": "",
-            "en": "Tomatoes, parsley, onion, bulgur",
-            "cz": "Rajeata, petrzel,Cibule, bulgur"
-          }
-        },
-        {
-          "name": {
-            "ar": "سلطة عربية",
-            "cz": "Arabský salát",
-            "en": "Arabic Salad"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "",
-          "price": "159",
-          "description": {
-            "ar": "",
-            "en": "Tomatoes, cucumbers, paprika, onion, olive oil",
-            "cz": "Rajeata, okurky, paprika, cibule, olivovy olej"
-          }
-        },
-        {
-          "name": {
-            "ar": "سلطة خيار باللبن",
-            "cz": "Tzatziki",
-            "en": "Yogurt Cucumber Salad"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "Tzatziki.png",
-          "price": "139",
-          "description": {
-            "ar": "",
-            "en": "yogurt with mint, garlic and cucumber",
-            "cz": "jogurt s mátou, eesnekem aokurkou"
-          }
-        },
-        {
-          "name": {
-            "ar": "ادزيكا",
-            "cz": "Adzika",
-            "en": "Adzika"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "Adzika.png",
-          "price": "139",
-          "description": {
-            "ar": "",
-            "en": "Tomatoes, eucumbers, paprika, onion, olive oil",
-            "cz": "Rajeata, okurky, paprika, cibule, olivovy ole"
-          }
-        },
-        {
-          "name": {
-            "ar": "ليلكوڤي كاڤيار",
-            "cz": "Lilkový kaviár",
-            "en": "Lilkovy kaviar"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "",
-          "price": "139",
-          "description": {
-            "ar": "",
-            "en": "Baked eggplant dip with pomegranat",
-            "cz": "dip z peceného lilku s granátovýmjablkem"
-          }
-        },
-        {
-          "name": {
-            "ar": "سلطة يونانية",
-            "cz": "Greek Salát",
-            "en": "Greek Salad"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "GreekSalad.png",
-          "price": "159",
-          "description": {
-            "ar": "",
-            "en": "tomatoes, eucumber, pepper, olives, balean Cheese",
-            "cz": "Rajeata,okurka,paprika,olivy,balkán.syr"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "category_name": {
-        "en": "Warm appetizers",
-        "ar": "مقبلات ساخنة",
-        "cz": "Teplé predkrmy"
-      },
-      "image": "pic5.png",
-      "items": [
-        {
-          "name": {
-            "ar": "حمص باللحم",
-            "cz": "Hummus s masem",
-            "en": "Hummus with meat"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "HummusWithMeat.png",
-          "price": "199",
-          "description": {
-            "ar": "حمص باللحم",
-            "cz": "Vařená cizrnová kaše s tahini mletým masem a oříšky",
-            "en": "Cooked chickpeas purée with tahine minced meat and nuts"
-          }
-        },
-        {
-          "name": {
-            "ar": "فول مدمس",
-            "cz": "Foul mudammas",
-            "en": "Foul mudammas"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "",
-          "price": "139",
-          "description": {
-            "ar": "",
-            "en": "Foul mudammas,olive oil and lemon juice",
-            "cz": "Foul mudammas, olivovým olejem a citronovou stávou"
-          }
-        },
-        {
-          "name": {
-            "ar": "فلافل",
-            "cz": "Falafel",
-            "en": "Falafel"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image":"Falafel.png",
-          "price": "249",
-          "description": {
-            "ar": "",
-            "en": "Fried chickpea meatballs, tahini sauce, salad",
-            "cz": "smažené cizrnové karbanátky, tahini omáčka, salát"
-          }
-        },
-        {
-          "name": {
-            "ar": "كبة",
-            "cz": "Kibbeh",
-            "en": "Kibbeh"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "Kibbeh.png",
-          "price": "249",
-          "description": {
-            "ar": "",
-            "en": "Fried balls made from a mixture of meat, crushed wheat, onion and pineseeds",
-            "cz": "Smažené kuličky ze směsi masa, drcené pšenice, cibule a piniových semínek"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "category_name": {
-        "en": "Main Course",
-        "ar": "الوجبات الرئيسية",
-        "cz": "Hlavní jídlo"
-      },
-      "image": "pic5.png",
-      "items": [
-        {
-          "name": {
-            "ar": "كبسة دجاج",
-            "cz": "Kabsa kurecí",
-            "en": "Chiken Kabsa"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "ChickenKabsa.png",
-          "price": "349",
-          "description": {
-            "ar": "",
-            "cz": "kuřce, rýže kabse, petržel, oříšky",
-            "en": "Chicken, rice Kabsa, parsley, nuts"
-          }
-        },
-        {
-          "name": {
-            "ar": "قوزي خروف",
-            "cz": "Jehněčí maso Qozi",
-            "en": "Lamb Qozi"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "LambQozi.png",
-          "price": "399",
-          "description": {
-            "ar": "",
-            "en": "lamb, rice Kabsa, parsley, nuts",
-            "cz": "Jehněčí maso, rýže kabse, petržel, oříšky"
-          }
-        },
-        {
-          "name": {
-            "ar": "تشريب اللحم الأحمر",
-            "cz": "Tashreeb z červeného masa",
-            "en": "Tashreeb from red meat"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "",
-          "price": "399",
-          "description": {
-            "ar": "",
-            "en": "Meat, onion, grated lemon, tomato sauce, rice",
-            "cz": "Maso, cibule ,šusený citrón, rajca továomácka, rýze"
-          }
-        },
-        {
-          "name": {
-            "ar": "برياني دجاج",
-            "cz": "Kuřecí Biryani",
-            "en": "Chiken Biryani"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "",
-          "price": "349",
-          "description": {
-            "ar": "",
-            "en": "Chicken, biryani rice, parsley, nuts",
-            "cz": "Kuřecí maso, biryani rýže, petržel, oříšky"
-          }
-        },
-        {
-          "name": {
-            "ar": "بامية باللحم",
-            "cz": "Bamia(okra) s masem",
-            "en": "Okra with meat"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "OkraWithMeat.png",
-          "price": "399",
-          "description": {
-            "ar": "",
-            "en": "Okra with meat, rice, tomato sauce",
-            "cz": "Okra s masem, rýže, rajčatová omáčka"
-          }
-        },
-        {
-          "name": {
-            "ar": "فاصوليا بيضاء باللحم",
-            "cz": "Bílé fazole s masem",
-            "en": "White beans with meat"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "WhiteBeansWithMeat.png",
-          "price": "399",
-          "description": {
-            "ar": "",
-            "en": "White beans with meat, rice, tomato sauce",
-            "cz": "Bílé fazole s masem, rýže, rajčatová omáčka"
-          }
-        },
-        {
-          "name": {
-            "ar": "تبس بتنجان",
-            "cz": "Tepsi Lilek",
-            "en": "Tepsi Eggplant"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "",
-          "price": "399",
-          "description": {
-            "ar": "",
-            "en": "Lamb, eggplant, potatos, onions, red sauce",
-            "cz": "Jehněčí maso, lilek, brambory, cibule, červená omáčka"
-          }
-        },
-        {
-          "name": {
-            "ar": "الدولمة العراقية",
-            "cz": "Dolma",
-            "en": "Dolma"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "Dolma.png",
-          "price": "199",
-          "description": {
-            "ar": "",
-            "en": "Grape leaves stuffed with rice, vegetables and olive oil",
-            "cz": "Vinné listy pinéné ryzi, zeleninou a olivovym olejem"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "category_name": {
-        "en": "Grill",
-        "ar": "مشاوي",
-        "cz": "Grill"
-      },
-      "image": "pic5.png",
-      "items": [
-        {
-          "name": {
-            "ar": "أجنحة الدجاج المشوية",
-            "cz": "Grilovaná kuřecí křídla",
-            "en": "Grilled chicken Wings"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "GrilledChickenWings.png",
-          "price": "299",
-          "description": {
-            "ar": "",
-            "cz": "8 kuřecích křídel, salát, hranolky/rýže, dresink",
-            "en": "8 chicken wings, salad, fries / rice, dressing"
-          }
-        },
-        {
-          "name": {
-            "ar": "شيش طاووق",
-            "cz": "Šiš taouk",
-            "en": "Shish Taouk"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "ShishTawook.png",
-          "price": "349",
-          "description": {
-            "ar": "",
-            "en": "Marinated chicken pieces on grill, salad, chips / rice, dressing",
-            "cz": "Marinované kuřecí kousky na grilu, salát, hranolky/rýže, dresink"
-          }
-        },
-        {
-          "name": {
-            "ar": "ستيك دجاج مشوي",
-            "cz": "Grilovaný kuřecí steak",
-            "en": "Grilled Chicken Steak"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "GrilledChickenSteak.png",
-          "price": "369",
-          "description": {
-            "ar": "",
-            "en": "Chicken breasts on grill, salad, chips / rice, dressing",
-            "cz": "Kuřecí prsa na grilu, salát, chipsy/rýže, dresink"
-          }
-        },
-        {
-          "name": {
-            "ar": "شيش كباب",
-            "cz": "Šiš Kebab",
-            "en": "Shish kabab"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "ShishKebab.png",
-          "price": "349",
-          "description": {
-            "ar": "",
-            "en": "Grilled minced lamb, salad. french fries / rice, dressing",
-            "cz": "Grilované mleté jehněčí maso, salát. hranolky/rýže, dresink"
-          }
-        },
-        {
-          "name": {
-            "ar": "ستيك لحم",
-            "cz": "Hovězí steak",
-            "en": "Beef steak"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "BeefSteak.png",
-          "price": "399",
-          "description": {
-            "ar": "",
-            "en": "Beef steak on grill, salad, fries / rice, dressing",
-            "cz": "Hovězí steak na grilu, salát, hranolky/rýže, dresink"
-          }
-        },
-        {
-          "name": {
-            "ar": "تكا خروف",
-            "cz": "Jehněčí Tikka",
-            "en": "Lamb Tikka"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "LambTikka.png",
-          "price": "399",
-          "description": {
-            "ar": "",
-            "en": "Grilled lamb pastry, salad, french fries / rice, dressing",
-            "cz": "Grilované jehněčí pečivo, salát, hranolky / rýže, dresink"
-          }
-        },
-        {
-          "name": {
-            "ar": "ضلوع خروف",
-            "cz": "Jehněčí žebirka",
-            "en": "Lamb Ribs"
-          },
-          "id": "2_item_2",
-          "number": "001",
-          "image": "LambRibs.png",
-          "price": "449",
-          "description": {
-            "ar": "",
-            "en": "4x grilled lamb ribs, salad, french fries / rice, dressing",
-            "cz": "4x grilovaná jehněčí žebírka, salát, hranolky/rýže, dresink"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "category_name": {
-        "en": "Grill Meals Per Person",
-        "ar": "وجبات مشاوي بالفرد",
-        "cz": "Grilovaná jídla na osobu"
-      },
-      "image": "pic5.png",
-      "items": [
-        {
-          "name": {
-            "ar": "مكس جريل لفرد ٣٣٠ ج",
-            "cz": "Mix gril pro 1 osoba 330g",
-            "en": "Mix grill for 1 person 330g"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "MixGrill.png",
-          "price": "649",
-          "description": {
-            "ar": "",
-            "cz": "1x Šiš taouk, 1x jehněčí tikka, 1x Šiš Kabab, 1x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
-            "en": "1x shish taouk, 1x lamb tikka, 1x shish kebab, 1x lamb ribs, grilled vegetables, fries / rice, dressing"
-          }
-        },
-        {
-          "name": {
-            "ar": "مكس جريل لفردين ٦٦٠ ج",
-            "cz": "Mix gril pro 2 osoby 660g",
-            "en": "Mix grill for 2 people 660g"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "MixGrill.png",
-          "price": "1119",
-          "description": {
-            "ar": "",
-            "cz": "2x Šiš taouk, 2x jehněčí tikka, 2x Šiš Kabab, 2x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
-            "en": "2x shish taouk, 2x lamb tikka, 2x shish kebab, 2x lamb ribs, grilled vegetables, fries / rice, dressing"
-          }
-        },
-        {
-          "name": {
-            "ar": "مكس جريل لثلاث أفراد ١١٠٠ ج",
-            "cz": "Mix gril pro 3 osoby 1100g",
-            "en": "Mix grill for 3 people 1100g"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "MixGrill.png",
-          "price": "2299",
-          "description": {
-            "ar": "",
-            "cz": "3x Šiš taouk, 3x jehněčí tikka, 3x Šiš Kabab, 3x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
-            "en": "3x shish taouk, 3x lamb tikka, 3x shish kebab, 3x lamb ribs, grilled vegetables, fries / rice, dressing"
-          }
-        },
-        {
-          "name": {
-            "ar": "مكس جريل لأربع أفراد ١٥٠٠ ج",
-            "cz": "Mix gril pro 4 osoby 1500g",
-            "en": "Mix grill for 4 people 1500g"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "MixGrill.png",
-          "price": "3499",
-          "description": {
-            "ar": "",
-            "cz": "4x Šiš taouk, 4x jehněčí tikka, 4x Šiš Kabab, 4x jehněčí žebírka, grilovaná zelenina, hranolky / rýže, dresink",
-            "en": "4x shish taouk, 4x lamb tikka, 4x shish kebab, 4x lamb ribs, grilled vegetables, fries / rice, dressing"
-          }
-        }
-      ]
-    },
+    }, 
     {
       "id": "9",
       "category_name": {
