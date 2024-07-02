@@ -702,7 +702,7 @@
           },
           "id": "2_item_1",
           "number": "001",
-          "image": "",
+          "image": "Shisha.png",
           "price": "550",
           "description": {
             "ar": "",
@@ -1487,6 +1487,22 @@
         {
           "name": {
             "ar": "",
+            "cz": "Mojito Alk",
+            "en": "Mojito Alcoholic"
+          },
+          "id": "2_item_1",
+          "number": "001",
+          "image": "Mojeto.png",
+          "price": "179",
+          "description": {
+            "ar": "",
+            "cz": "Mojito Alk",
+            "en": "Mojito Alcoholic"
+          }
+        },
+        {
+          "name": {
+            "ar": "",
             "cz": "Aperol",
             "en": "Aperol"
           },
@@ -1546,22 +1562,6 @@
             "ar": "",
             "cz": "Jägerbomba",
             "en": "Jägerbomba"
-          }
-        },
-        {
-          "name": {
-            "ar": "",
-            "cz": "Mojito Alk",
-            "en": "Mojito Alcoholic"
-          },
-          "id": "2_item_1",
-          "number": "001",
-          "image": "",
-          "price": "179",
-          "description": {
-            "ar": "",
-            "cz": "Mojito Alk",
-            "en": "Mojito Alcoholic"
           }
         },
         {
